@@ -4,7 +4,17 @@
 __author__="karlo"
 __date__ ="$May 9, 2011 9:22:29 PM$"
 
-def count_letters(input,letter):    
+def count_letters_imp(input,letter):    
+    count = 0
+    index = input.find(letter)
+    while  index != -1:
+        input = input[index+1:]
+        count+=1
+        if count == 5:
+            break
+        index = input.find(letter)
+    return count
+def count_letters(input,letter):        
     count = 0
     for l in input:
         if l == letter:
@@ -53,4 +63,5 @@ if __name__ == "__main__":
     doctest.testmod()
     seven_14_1_2()
     seven_16_1()
-    count_letters('banana','a')
+    print count_letters('banana','a')
+    print count_letters_imp('ovojezagorje','e')
