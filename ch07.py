@@ -4,6 +4,20 @@
 __author__="karlo"
 __date__ ="$May 9, 2011 9:22:29 PM$"
 
+def count_letters(input,letter):    
+    count = 0
+    for l in input:
+        if l == letter:
+            count+=1
+    return count
+def seven_16_1():
+    prefixes = 'JKLMNOPQ'
+    suffix = 'ack'
+    for letter in prefixes:
+        if letter in ['O','Q']:
+            print letter+'u'+suffix
+        else:
+            print letter + suffix
 def seven_14_1_2():
     """
     >>> fruit='rambutan'
@@ -38,3 +52,5 @@ if __name__ == "__main__":
     import doctest
     doctest.testmod()
     seven_14_1_2()
+    seven_16_1()
+    count_letters('banana','a')
