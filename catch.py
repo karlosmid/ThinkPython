@@ -70,6 +70,9 @@ def play_game():
 
         if result == PLAYER_WINS:
             player_score += 1
+            pmsg = Text("Player Wins!", (340, 290), size=32)
+            sleep(2)
+            remove_from_screen(pmsg)
         elif result == COMPUTER_WINS:
             comp_score += 1
         else:
