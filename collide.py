@@ -31,8 +31,8 @@ def collide():
         move_to(ball2, (ball2_x, ball2_y))
         if distance(ball1_x, ball1_y, ball2_x, ball2_y) <= 20:
             remove_from_screen(ball1)
-            remove_from_screen(ball2)
-            break
+#            remove_from_screen(ball2)
+#            break
         update_when('next_tick')
 
     sleep(1)

@@ -64,4 +64,4 @@ if __name__ == "__main__":
     seven_14_1_2()
     seven_16_1()
     print count_letters('banana','a')
-    print count_letters_imp('ovojezagorje','e')
+    print count_letters_imp('ovojezagorje','etor')
