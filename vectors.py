@@ -47,6 +47,35 @@ def exercise09():
     >>> dot_product([2, 0, -1, 1], [1, 5, 2, 0])
     0
     """
+def exercise10():
+    """
+    >>> cross_product(1,[1,2])
+    -1
+    >>> cross_product([1,2],[1,2,3])
+    -2
+    >>> cross_product([1, 1, 1], [1, 1])
+    -3
+    >>> cross_product([1, 2, 3], [1, 4, 3])
+    [-6, 0, 2]
+    >>> cross_product([1, 2, 1], [1, 4, 3])
+    [2, -2, 2]
+    >>> cross_product([2, 0, -1], [1, 5, -2])
+    [5, 3, 10]
+    """
+def cross_product(u,v):
+    if not isinstance(u,list) or not isinstance(v,list):
+        return -1
+    elif len(u) != 3:
+        return -2
+    elif len(u) != len(v):
+        return -3
+    else:
+        rez = [0, 0, 0]
+        rez[0] = u[2-1]*v[3-1] - u[3-1]*v[2-1]
+        rez[1] = u[3-1]*v[1-1] - u[1-1]*v[3-1]
+        rez[2] = u[1-1]*v[2-1] - u[2-1]*v[1-1]
+        return rez
+
 def dot_product(u,v):
     if not isinstance(u,list) or not isinstance(v,list):
         return -1
