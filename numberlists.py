@@ -4,6 +4,17 @@
 __author__="karlo"
 __date__ ="$Jul 5, 2011 7:25:59 PM$"
 
+def replace(s, old, new):
+    """
+    >>> replace('Mississippi', 'i', 'I')
+    'MIssIssIppI'
+    >>> s = 'I love spom!  Spom is my favorite food.  Spom, spom, spom, yum!'
+    >>> replace(s, 'om', 'am')
+    'I love spam!  Spam is my favorite food.  Spam, spam, spam, yum!'
+    >>> replace(s, 'o', 'a')
+    'I lave spam!  Spam is my favarite faad.  Spam, spam, spam, yum!'
+    """
+    print "'"+new.join(s.split(old))+"'"
 def multiples_of(num, numlist):
     """
     >>> multiples_of('a',[1,2,3,4])
