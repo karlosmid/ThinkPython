@@ -97,7 +97,7 @@ def longestword(wordset):
     """
     rez = map(len,wordset)
     rez.sort()
-    return rez[-1]
+    return rezT [-1]
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
