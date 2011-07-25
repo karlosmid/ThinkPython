@@ -14,8 +14,8 @@ if __name__ == "__main__":
 #
 # countletters.py
 #
-
-    infile = open('alice_in_wonderland.txt', 'r')
+    from sys import argv
+    infile = open(argv[1], 'r')
     text = infile.read()
     infile.close()
 
@@ -24,7 +24,8 @@ if __name__ == "__main__":
     for letter in text:
         counts[ord(letter)] += 1
 
-    outfile = open('alice_counts.dat', 'w')
+    outFileName = argv[1].split('_')
+    outfile = open(outFileName[0]+'_counts.dat', 'w')
     outfile.write("%-12s%s\n" % ("Character", "Count"))
     outfile.write("=================\n")
 
