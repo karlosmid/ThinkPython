@@ -24,6 +24,80 @@ def insert_in_middle(val, seq):
     middle = len(seq)/2
     return seq[:middle] + encapsulate(val, seq) + seq[middle:]
 
+
+def insert_at(index, val, seq):
+    """
+      >>> insert_at(2,'k',['a','b','c','d'])
+      ['a', 'b', 'k', 'c', 'd']
+      >>> insert_at(1,'a','karlo')
+      'kaarlo'
+      >>> insert_at(2,'ca',('ca','kaj','sto'))
+      ('ca', 'kaj', 'ca', 'sto')
+    """
+    return seq[:index] + encapsulate(val, seq) + seq[index:]
+
+
+def reverse(seq):
+    """
+      >>> reverse([1, 2, 3, 4, 5])
+      [5, 4, 3, 2, 1]
+      >>> reverse(('shoe', 'my', 'buckle', 2, 1))
+      (1, 2, 'buckle', 'my', 'shoe')
+      >>> reverse('Python')
+      'nohtyP'
+    """
+    if type(seq) == type(""):
+        reverseString = ""
+        for i in range(1,len(seq)+1):
+            reverseString = reverseString + seq[-1*i]
+        return reverseString
+    if type(seq) == type([]):
+        seq.reverse()
+        return seq
+    reverseTouple = ()
+    for i in range(1,len(seq)+1):
+        reverseTouple = reverseTouple + encapsulate(seq[-1*i],seq)
+    return reverseTouple
+
+
+def sort_sequence(seq):
+    """
+      >>> sort_sequence([3, 4, 6, 7, 8, 2])
+      [2, 3, 4, 6, 7, 8]
+      >>> sort_sequence((3, 4, 6, 7, 8, 2))
+      (2, 3, 4, 6, 7, 8)
+      >>> sort_sequence("nothappy")
+      'ahnoppty'
+    """
+    typeOfSeq = ''
+    if type(seq) == type(""):
+        seqAsList = list(seq)
+        typeOfSeq = 's'
+    elif type(seq) == type(()):
+        seqAsList = list(seq)
+        typeOfSeq = 't'
+    else:
+        seqAsList = seq
+        typeOfSeq = 'l'    
+    for i in range(len(seqAsList)-1):
+        j = i        
+        min = seqAsList[i]
+        replace = False
+        for item in seqAsList[i:]:
+            if item < min:                                
+                minIndex = j
+                min = item
+                replace = True
+            j = j + 1
+        if (replace):
+            seqAsList[i], seqAsList[minIndex] = seqAsList[minIndex],seqAsList[i]        
+    if typeOfSeq == 's':
+        return str(seqAsList)
+    elif typeOfSeq == 't':
+        return tuple(seqAsList)
+    else:
+        return seqAsList
+
 def make_empty(seq):
     """
       >>> make_empty([1, 2, 3, 4])
@@ -92,6 +166,7 @@ def remove_at(index, seq):
     'Yorktown'
     """
     return seq[:index] + seq[index+1:]
+
 def remove_val(val, seq):
     """
     >>> remove_val(11, [1, 7, 11, 9, 10])
@@ -135,5 +210,6 @@ def count(val, seq):
             count = count + 1
     return count
 if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
+#    import doctest
+#    doctest.testmod()
+    sort_sequence("nothappy")
