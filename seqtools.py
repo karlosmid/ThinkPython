@@ -92,7 +92,7 @@ def sort_sequence(seq):
         if (replace):
             seqAsList[i], seqAsList[minIndex] = seqAsList[minIndex],seqAsList[i]        
     if typeOfSeq == 's':
-        return str(seqAsList)
+        return "".join(seqAsList)
     elif typeOfSeq == 't':
         return tuple(seqAsList)
     else:
@@ -209,7 +209,26 @@ def count(val, seq):
         if val == item:
             count = count + 1
     return count
+def recursive_min(nested_num_list):
+    """
+    >>> recursive_min([2, 9, [1, 13], 8, 6])
+    1
+    >>> recursive_min([2, [[100, 1], 90], [10, 13], 8, 6])
+    1
+    >>> recursive_min([2, [[13, -7], 90], [1, 100], 8, 6])
+    -7
+    >>> recursive_min([[[-13, 7], 90], 2, [1, 100], 8, 6])
+    -13
+    >>> recursive_min([8,6,19,5,4,1,1])
+    1
+    >>> recursive_min([[8,6,19],[5,4,1,1]])
+    6
+    """
+    for item in nested_num_list:
+        if type(item) == type([]):
+            return recursive_min(item)
+    return sort_sequence(nested_num_list)[0]
 if __name__ == "__main__":
-#    import doctest
-#    doctest.testmod()
-    sort_sequence("nothappy")
+    import doctest
+    doctest.testmod()
+#    sort_sequence("nothappy")
