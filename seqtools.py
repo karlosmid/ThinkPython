@@ -230,14 +230,14 @@ def recursive_min(nested_num_list):
     return sort_sequence(nested_num_list)[0]
 def recursive_count(target, nested_num_list):
     """
-      >>> recursive_count(2, [2, 9, [2, 1, 13, 2], 8, [2, 6]])
-      4
-      >>> recursive_count(7, [[9, [7, 1, 13, 2], 8], [7, 6]])
-      2
-      >>> recursive_count(15, [[9, [7, 1, 13, 2], 8], [2, 6]])
-      0
-      >>> recursive_count(5, [[5, [5, [1, 5], 5], 5], [5, 6]])
-      6
+    >>> recursive_count(2, [2, 9, [2, 1, 13, 2], 8, [2, 6]])
+    4
+    >>> recursive_count(7, [[9, [7, 1, 13, 2], 8], [7, 6]])
+    2
+    >>> recursive_count(15, [[9, [7, 1, 13, 2], 8], [2, 6]])
+    0
+    >>> recursive_count(5, [[5, [5, [1, 5], 5], 5], [5, 6]])
+    6
     """
     count = 0
     for item in nested_num_list:
@@ -246,7 +246,25 @@ def recursive_count(target, nested_num_list):
         if item == target:
             count = count + 1
     return count
+def flatten(nested_num_list):
+    """
+      >>> flatten([2, 9, [2, 1, 13, 2], 8, [2, 6]])
+      [2, 9, 2, 1, 13, 2, 8, 2, 6]
+      >>> flatten([[9, [7, 1, 13, 2], 8], [7, 6]])
+      [9, 7, 1, 13, 2, 8, 7, 6]
+      >>> flatten([[9, [7, 1, 13, 2], 8], [2, 6]])
+      [9, 7, 1, 13, 2, 8, 2, 6]
+      >>> flatten([[5, [5, [1, 5], 5], 5], [5, 6]])
+      [5, 5, 1, 5, 5, 5, 5, 6]
+    """    
+    flatList = []
+    for item in nested_num_list:
+        if type(item) == type([]):
+            flatList = flatList + flatten(item)
+        else:
+            flatList.append(item)        
+    return flatList
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-#    sort_sequence("nothappy")
+#    print flatten([2, 9, [2, 1, 13, 2], 8, [2, 6]])
