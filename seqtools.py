@@ -264,7 +264,25 @@ def flatten(nested_num_list):
         else:
             flatList.append(item)        
     return flatList
+def readposint(prompt = "Please enter a positive integer:"):
+    posIntRaw = raw_input(prompt)
+    posInt = None
+    try:
+        posInt = int(posIntRaw)
+    except:
+        print posIntRaw + " is not a positive integer. Try again"
+        return readposint(prompt)
+    if posInt < 0:
+        print posIntRaw + " is not a positive integer. Try again"
+        return readposint(prompt)
+    return posInt
+
+
 if __name__ == "__main__":
-    import doctest
-    doctest.testmod()
+#    import doctest
+#    doctest.testmod()
 #    print flatten([2, 9, [2, 1, 13, 2], 8, [2, 6]])
+    num = readposint()
+    print 'num = ',num
+    num2 = readposint('A zakaj ne ovo:')
+    print 'num2 = ',num
