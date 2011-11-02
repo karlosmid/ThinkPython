@@ -278,11 +278,22 @@ def readposint(prompt = "Please enter a positive integer:"):
     return posInt
 
 
+def factorial(n):
+    result = 1
+    if n in [0,1]:
+        return 1
+    else:
+        for i in range(1,n+1):
+            result = result * i
+        return result
+
+
 if __name__ == "__main__":
 #    import doctest
 #    doctest.testmod()
 #    print flatten([2, 9, [2, 1, 13, 2], 8, [2, 6]])
-    num = readposint()
-    print 'num = ',num
-    num2 = readposint('A zakaj ne ovo:')
-    print 'num2 = ',num
+#    num = readposint()
+#    print 'num = ',num
+#    num2 = readposint('A zakaj ne ovo:')
+#    print 'num2 = ',num
+    print factorial(1000)
