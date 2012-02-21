@@ -10,19 +10,25 @@ def getUsingHttp(forDomainName,thisLink,debug = False):
     httpResponse = conn.getresponse()
     httpResponseStatus = httpResponse.status
     httpResponseReason = httpResponse.reason
-    httpResponseLocation = '' 
-    if httpResponseReason == '301':
-        httpResponseLocation = httpResponse.getheader('Location')
+    httpResponseLocation = httpResponse.getheader('Location')
     httpResponseBody = httpResponse.read()
     conn.close()
     return [httpResponseStatus, httpResponseReason,httpResponseLocation,httpResponseBody]
 def prepareBlogPostLink(blogDomainName,forBlogPostGroup,forMonth,forYear,forBlogPostNo):
     if forBlogPostNo == 23:
-        blogPostUrl =\
-          "/"+forYear+"/"+forMonth+"/"+forBlogPostGroup+'22_22'+".html" 
+          path = forBlogPostGroup+'22_22' 
+    elif forBlogPostNo == 35:
+        path = 'jamesmarcusbach-james-marcus-bach-heres'
+    elif forBlogPostNo == 45:
+        path = 'michaelbolton-michael-bolton-blogged-at'
+    elif forBlogPostNo == 49:
+        path = 'my-twitter-reding-list-49'
+    elif forBlogPostNo == 66:
+        path = 'vaidyatcr-vaidyanathan-b-visit-to'
     else: 
-        blogPostUrl =\
-         "/"+forYear+"/"+forMonth+"/"+forBlogPostGroup+str(forBlogPostNo)+".html" 
+        path = forBlogPostGroup+str(forBlogPostNo) 
+    blogPostUrl =\
+         "/"+forYear+"/"+forMonth+"/"+path+".html" 
     return blogPostUrl
 def parsePageForLinks(forBlogPost,forBlogPostTitle,endMark):        
     links = [] 
@@ -44,17 +50,43 @@ def parsePageForLinks(forBlogPost,forBlogPostTitle,endMark):
             current = linkEnd
     return links
 def getPageTitle(forLinksInList):
+    noOfLinksToParse = len(forLinksInList) 
+    print 'Number of links to parse: '+str(len(forLinksInList)) 
     LinkWithTitle = []
     for item in forLinksInList:
         parsedUrl = urlparse.urlparse(item)
-        httpResponse = getUsingHttp(parsedUrl.netloc,parsedUrl.path)
-        if httpResponse[HTTP_STATUS] == '301':
-            parsedUrl = urlparse.urlparse(httpResponse[HTTP_LOCATION])
-            httpResponse = getUsingHttp(parsedUrl.netloc,parsedUrl.path)
-        titleStart = httpResponse[HTTP_BODY].find('<title>')
-        titleEnd = httpResponse[HTTP_BODY].find('</title>')
-        title = httpResponse[HTTP_BODY][titleStart+len('<title>'):titleEnd]
-        print title
+        try:
+            httpResponse = getUsingHttp(parsedUrl.netloc,parsedUrl.path,debug =\
+                                        False)
+        except Exception, error:
+            print 'Unable to parse: '+ item +'because of error: ',error
+        counter = 5
+        while httpResponse[HTTP_STATUS] == 301 and counter>0:
+            counter = counter - 1 
+            if '.pdf' not in httpResponse[HTTP_LOCATION]:
+                time.sleep(random.choice([1,2])) 
+                parsedUrl = urlparse.urlparse(httpResponse[HTTP_LOCATION])
+                try: 
+                    httpResponse =\
+                    getUsingHttp(parsedUrl.netloc,parsedUrl.path,debug = False)
+                except Exception, error:
+                    print 'Unable to parse: '+httpResponse[HTTP_LOCATION]+\
+                    'because of: ',error
+            else:
+                title = httpResponse[HTTP_LOCATION]
+                break
+            if httpResponse[HTTP_STATUS] == 200: 
+                titleStart = httpResponse[HTTP_BODY].find('<title>')
+                titleEnd = httpResponse[HTTP_BODY].find('</title>')
+                title =\
+                httpResponse[HTTP_BODY][titleStart+len('<title>'):titleEnd]
+            else:
+                title =\
+                str(httpResponse[HTTP_STATUS])+str(parsedUrl.netloc+parsedUrl.path)
+        LinkWithTitle.append(item+' '+'"'+title+'"')
+        noOfLinksToParse = noOfLinksToParse - 1
+        print 'No of links left to parse: '+str(noOfLinksToParse)
+    return LinkWithTitle
 if __name__ == "__main__":
     HTTP_STATUS = 0
     HTTP_REASON = 1
@@ -64,19 +96,21 @@ if __name__ == "__main__":
     blogDomainName = "zagorskisoftwaretester.blogspot.com"
     forBlogPostGroup = "my-twitter-reading-list-"
     forBlogPostTitle = "My twitter reading list #"
-    forPostsNumberRange = range(11,12)
+    forPostsNumberRange = range(54,78)
     forYear = '2011'
-    forMonth = '08'
+    forMonth = '10'
     endMark = "Posted by"
     for blogPostNo in forPostsNumberRange:
         link =\
         prepareBlogPostLink(blogDomainName,forBlogPostGroup,forMonth,forYear,blogPostNo)
         time.sleep(random.choice([3,5,1,4,2]))
-        httpResponse = getUsingHttp(blogDomainName,link)
+        try: 
+            httpResponse = getUsingHttp(blogDomainName,link)
+        except Exception, error:
+            print error, parsedUrl
         print httpResponse[HTTP_STATUS],httpResponse[HTTP_REASON],link
         totalLinkList = totalLinkList +\
             parsePageForLinks(httpResponse[HTTP_BODY],forBlogPostTitle,endMark)
-        getPageTitle(totalLinkList)
     file = open('diigoLinks'+forMonth+forYear+'.txt','w')
-    file.write('\n'.join(totalLinkList))
+    file.write('\n'.join(getPageTitle(totalLinkList)))
     file.close()
