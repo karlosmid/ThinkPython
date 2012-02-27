@@ -1,8 +1,8 @@
-import httplib
 import time
 import random
 import urlparse
-def getUsingHttp(forDomainName,thisLink,debug = False):
+def getUsingHttpProtocol(forDomainName,thisLink,debug = False):
+    import httplib 
     if debug: 
         httplib.HTTPConnection.debuglevel = 1 
     conn = httplib.HTTPConnection(forDomainName)
@@ -10,11 +10,11 @@ def getUsingHttp(forDomainName,thisLink,debug = False):
     httpResponse = conn.getresponse()
     httpResponseStatus = httpResponse.status
     httpResponseReason = httpResponse.reason
-    httpResponseLocation = httpResponse.getheader('Location')
+    httpResponseHeaderLocation = httpResponse.getheader('Location')
     httpResponseBody = httpResponse.read()
     conn.close()
-    return [httpResponseStatus, httpResponseReason,httpResponseLocation,httpResponseBody]
-def prepareBlogPostLink(blogDomainName,forBlogPostGroup,forMonth,forYear,forBlogPostNo):
+    return [httpResponseStatus, httpResponseReason,httpResponseHeaderLocation,httpResponseBody]
+def prepareBlogPostLink(forBlogPostGroup,forMonth,forYear,forBlogPostNo):
     if forBlogPostNo == 23:
           path = forBlogPostGroup+'22_22' 
     elif forBlogPostNo == 35:
@@ -25,6 +25,8 @@ def prepareBlogPostLink(blogDomainName,forBlogPostGroup,forMonth,forYear,forBlog
         path = 'my-twitter-reding-list-49'
     elif forBlogPostNo == 66:
         path = 'vaidyatcr-vaidyanathan-b-visit-to'
+    elif forBlogPostNo == 124:
+        path = 'my-twitter-reading-list124'
     else: 
         path = forBlogPostGroup+str(forBlogPostNo) 
     blogPostUrl =\
@@ -56,19 +58,19 @@ def getPageTitle(forLinksInList):
     for item in forLinksInList:
         parsedUrl = urlparse.urlparse(item)
         try:
-            httpResponse = getUsingHttp(parsedUrl.netloc,parsedUrl.path,debug =\
+            httpResponse = getUsingHttpProtocol(parsedUrl.netloc,parsedUrl.path,debug =\
                                         False)
         except Exception, error:
             print 'Unable to parse: '+ item +'because of error: ',error
         counter = 5
         while httpResponse[HTTP_STATUS] == 301 and counter>0:
             counter = counter - 1 
-            if '.pdf' not in httpResponse[HTTP_LOCATION]:
+            if httpResponse[HTTP_LOCATION] not in ['.pdf','.png']:
                 time.sleep(random.choice([1,2])) 
                 parsedUrl = urlparse.urlparse(httpResponse[HTTP_LOCATION])
                 try: 
                     httpResponse =\
-                    getUsingHttp(parsedUrl.netloc,parsedUrl.path,debug = False)
+                    getUsingHttpProtocol(parsedUrl.netloc,parsedUrl.path,debug = False)
                 except Exception, error:
                     print 'Unable to parse: '+httpResponse[HTTP_LOCATION]+\
                     'because of: ',error
@@ -96,16 +98,16 @@ if __name__ == "__main__":
     blogDomainName = "zagorskisoftwaretester.blogspot.com"
     forBlogPostGroup = "my-twitter-reading-list-"
     forBlogPostTitle = "My twitter reading list #"
-    forPostsNumberRange = range(54,78)
-    forYear = '2011'
-    forMonth = '10'
+    forPostsNumberRange = range(132,138)
+    forYear = '2012'
+    forMonth = '01'
     endMark = "Posted by"
     for blogPostNo in forPostsNumberRange:
         link =\
-        prepareBlogPostLink(blogDomainName,forBlogPostGroup,forMonth,forYear,blogPostNo)
+        prepareBlogPostLink(forBlogPostGroup,forMonth,forYear,blogPostNo)
         time.sleep(random.choice([3,5,1,4,2]))
         try: 
-            httpResponse = getUsingHttp(blogDomainName,link)
+            httpResponse = getUsingHttpProtocol(blogDomainName,link)
         except Exception, error:
             print error, parsedUrl
         print httpResponse[HTTP_STATUS],httpResponse[HTTP_REASON],link
