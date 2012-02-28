@@ -85,7 +85,7 @@ def getPageTitle(forLinksInList):
             else:
                 title =\
                 str(httpResponse[HTTP_STATUS])+str(parsedUrl.netloc+parsedUrl.path)
-        LinkWithTitle.append(item+' '+'"'+title+'"')
+        LinkWithTitle.append(item+'___'+title+'___')
         noOfLinksToParse = noOfLinksToParse - 1
         print 'No of links left to parse: '+str(noOfLinksToParse)
     return LinkWithTitle

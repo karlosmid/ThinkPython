@@ -1,102 +1,102 @@
-http://t.co/3CoDbfoG "302feedly.com/k/oPpkJr"
-http://t.co/rpHNIzXu "302feedly.com/k/r4ysG8"
-http://t.co/dRs1IGrd "[citation needed]&raquo; Blog Archive &raquo; the New York Times blows it big time on brain imaging"
-http://n.pr/qzh7sG "Dissolve My Nobel Prize! Fast! (A True Story) : Krulwich Wonders... : NPR"
-http://t.co/kjejAM5I "A Smattering of Selenium #63 &laquo; Official Selenium Blog"
-http://t.co/Z23jGxoH "The Main Goals of Software Test Plan &raquo; Offshore Software Testing | QATestLab"
-http://loadui.org/About-loadUI/what-is-loadui.html "LoadUI load testing tool" 
-http://t.co/sy5Qnnlo "302itreallymatters.net/post/10991877834/facebook-watir-and-testing"
-http://t.co/baPqg64R "Why Do Some People Learn Faster? | Wired Science | Wired.com"
-http://t.co/pu6apKRO "The Case for Working With Your Hands - NYTimes.com"
-http://t.co/sU0ppUrj "Github introduction for my colleagues - Reinout van Rees"
-http://t.co/xiCo0oxG "Testing Considered Evil - Unprotocols"
-http://t.co/miTrahI0 "A Story of a Heisenbug Hunt | Jeet Sukumaran"
-http://t.co/ZYjKi1Rn "Testing Podcast   &raquo; Coding QA Podcast"
-http://n.pr/p5PfZW "What's A Smoot? : Krulwich Wonders... : NPR"
-http://t.co/XZJcJjzD "302youtu.be/JAOTTLQ0rlY"
-http://t.co/KFBhm7bd "403www.dzone.com/links/why_code_review_beats_testing_evidence_from_decad.html"
-http://t.co/22LcQFV9 "Google Testing Blog: Unleash the QualityBots"
-http://t.co/OJLF90fg "Creative Tester: Attending Conferences and making most of it"
-http://n.pr/nuZYs9 "Loving Steve : Krulwich Wonders... : NPR"
-http://t.co/feIymcnK "http://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf"
-http://t.co/uo1LE4qq "Touring&nbsp;Heuristic - Blog - michaeldkelly.com"
-http://t.co/hnYu2ADu "Better Testing | Insights, thoughts &amp; ideas"
-http://t.co/0gBaFts0 "News Desk: Steve Jobs: &#8220;Technology Alone Is Not Enough&#8221; : The New Yorker"
-http://t.co/mXPFs0Co "The Black Swan (Taleb book) - Wikipedia, the free encyclopedia"
-http://t.co/w9N8EOMF "Project Estimation and Black Swans (Part 1) &laquo;  Developsense Blog"
-http://t.co/yr2Bk3q2 "Rapid Reporter, exploratory notetaking &laquo;  Testing Thoughts"
-http://t.co/inqP9CfO "Expression Encoder 4 Overview | Microsoft&#174; Expression&#174;"
-http://t.co/80Hv1ZyQ "Magnifiant: exploring software testing | Huib&#039;s blog on Software Testing"
-http://t.co/qEdVDl3B "302www.nytimes.com/glogin"
-http://t.co/kA41tqL9 "Extending RobotFramework to check emails"
-http://t.co/edUSKHr7 "Google Code Playground"
-http://t.co/fT1skIXY "403www.dzone.com/links/r/why_google_web_toolkit_rots_your_brain_2.html"
-http://t.co/QAXzUYTv "403www.dzone.com/links/google_app_engine_vs_amazon_ec2.html"
-http://t.co/jLZ6wRcD "403www.dzone.com/links/how_to_speed_up_the_android_emulator_by_up_to_400.html"
-http://t.co/rgUwkwtK "Two Plates. One Herbivore. One Omnivore.   Which Is Which? : Krulwich Wonders... : NPR"
-http://t.co/QmY184Xw "Google Testing Blog: Take a BITE out of Bugs and Redundant Labor"
-http://t.co/uetJ2k53 "People Skills managing change management webinars virtual meetings new technology innovation implementation"
-http://t.co/2rhTNARu "Forum | Weekend Testing"
-http://t.co/pyRoghCa "Push The Button - The Social Tester"
-http://t.co/L9ugQ1GQ "What Steve Jobs Can Teach Us - Unchartered Waters"
-http://t.co/WQ7E1HPK "Humility Contests | PCWorld"
-http://t.co/pyUpApE2 "The Drive to Be Different | Wired Science | Wired.com"
-http://t.co/zvveI0Pg "Security researcher threatened with vulnerability repair bill - Risk - SC Magazine Australia - Secure Business Intelligence"
-http://t.co/CyPrKHqi "403www.dzone.com/links/r/penn_and_teller_help_rob_pike_and_dennis_ritchie.html"
-http://t.co/GhBZuuip "My Advice to the Occupy Wall Street Protesters | Politics News | Rolling Stone"
-http://t.co/JciEwEK7 "Test scripts can't be written without exploration of what needs to be written. Thus scripted testing is parasitic on exploratory #testing."
-http://t.co/K7pURcjz "Quality Perspectives - Mnemonics"
-http://t.co/Zv25w7fa "gefira blog &raquo; Sort of tired of long constant names &#8211; Bunch to the rescue!"
-http://t.co/wrdC1Pou "Camouflaged Cuttlefish: Don't Mind Me; I'm Not Here : Krulwich Wonders... : NPR"
-http://t.co/0Sb2aSHt "Programming antipatterns - Java Code Geeks"
-http://t.co/nZxqkerB "301/jimholmes/posts/11-10-15/using-test-oracles-to-ensure-your-tests-rsquo-true-validity.aspx"
-http://t.co/vjdKuPp1 "Consistent User Actions - The Social Tester"
-http://t.co/0H6MdtXl "  Visit to Multunus &amp; other neighbors  | Official blog of Moolya Software Testing Private Limited"
-http://t.co/WC7Kea7l "Testing an SVG game"
-http://t.co/52sZp4KT "Automating an SVG game with Selenium WebDriver on Vimeo"
-http://t.co/R1DVH1Vs "A Smattering of Selenium #64 &laquo; Official Selenium Blog"
-http://t.co/VEWI2dQY "403www.dzone.com/links/r/why_you_shouldnt_have_to_deploy_overnight.html"
-http://t.co/YSF0vuVa "Confusion as an Oracle &laquo;  Developsense Blog"
-http://t.co/gnj4voSu "Google Testing Blog: Google JS Test, now in Open Source"
-http://t.co/TzjSKIsd "Code Kills : What Makes a Good Resume"
-http://t.co/zisPNPA9 "Celestial Camouflage : Krulwich Wonders... : NPR"
-http://t.co/TJxQs1SO "Top Tips for Performance Testing | Performance Testing Professional"
-http://t.co/uZ0NMtpw "How Friends Ruin Memory: The Social Conformity Effect | Wired Science | Wired.com"
-http://t.co/4rqGzCIa "James Bach’s Blog  &raquo; Blog Archive   &raquo; Behavior-Driven Development vs. Testing"
-http://t.co/7bMtbGi7 "Google Testing Blog"
-http://t.co/l3ywTQn5 " SalientBlue"
-http://t.co/vrgC7DQa "No, Not That Left, Your OTHER Left! : Krulwich Wonders... : NPR"
-http://t.co/5cTR2FcG "403www.dzone.com/links/signs_that_youre_a_bad_programmer.html"
-http://t.co/h0Us26d7 "301github.com/blog/967-github-secrets"
-http://t.co/70qesXR0 "403www.dzone.com/links/python_for_the_web.html"
-http://t.co/6dRJ5XLf "  Twitter driven exploratory software testing  | Official blog of Moolya Software Testing Private Limited"
-http://t.co/zBkGls9F "JavaScript, CSS, HTML Frameworks and Tools &#8211; my list  |  Gregs Ramblings"
-http://t.co/IQMFvCHd "Gravitate to people like you - The Social Tester"
-http://t.co/9M5XKtW6 "Google Removes The + Search Command"
-http://t.co/vZ53n2Q4 "How We Become Sports Fans: The Tyranny Of Fathers : Krulwich Wonders... : NPR"
-http://t.co/MUAOvVSR "Testing the Limits With Michael Bolton &#8211; Part I | Software Testing Blog"
-http://t.co/YU0nXFTM "Slide Design for Developers"
-http://t.co/XNtQJ02U "403www.dzone.com/links/r/nodejs_and_websockets.html"
-http://t.co/5W59s6Nt "testjutsu &raquo; Software testing? Not going away anytime soon."
-http://t.co/3GVAOQQa "Considering Conferences - Unchartered Waters"
-http://t.co/FfKxXp7t "301github.com/blog/968-say-hello-to-hubot"
-http://t.co/WKf0pel8 "The Book Bench: Is Self-Knowledge Overrated? : The New Yorker"
-http://t.co/yEhcEz0f "Services, practices & tools that should exist in any software development house, part 1 - Java Code Geeks"
-http://t.co/4Ihi66LY "302youtu.be/dFs9WO2B8uI"
-http://t.co/dj8olgqs "302ieeexplore.ieee.org/xpl/freeabs_all.jsp"
-http://t.co/liImeZ8g "302youtu.be/ueZ6tvqhk8U"
-http://t.co/W6DCddfK "http://www.developsense.com/articles/2009-07-ThreeKindsOfMeasurement.pdf"
-http://t.co/jWhSTqPA "Google Testing Blog: ScriptCover makes Javascript coverage analysis easy"
-http://t.co/ugzcYI8F "Royal Society journal archive made permanently free to access | Royal Society"
-http://t.co/XD9N0gTu "Tom Bissell on Rocksteady's Batman: Arkam City - Grantland"
-http://t.co/8jiv2XaA "Should Testers Play Planning Poker? &laquo;  Developsense Blog"
-http://t.co/PvgGcAiZ "http://www.kaner.com/pdfs/metrics2004.pdf"
-http://t.co/O26QJMDM "A Smattering of Selenium #66 &laquo; Official Selenium Blog"
-http://t.co/AA50XxjB "A Smattering of Selenium #67 &laquo; Official Selenium Blog"
-http://t.co/O4cFcOeB "10 things that made my Startup Profitable in the first year of Inception "
-http://t.co/pkF0BgPl "xMMwhy &laquo;  Developsense Blog"
-http://t.co/IhQ0V4VL "302www.nytimes.com/glogin"
-http://t.co/EWcx0Lo2 "A Halloween Love Story : Krulwich Wonders... : NPR"
-http://t.co/MJ26ODBp "Testing the Limits With Michael Bolton &#8211; Part II | Software Testing Blog"
-http://t.co/YEU0MFqi "301github.com/dhemery/victor"
-http://t.co/uXeWuFxt "301github.com/dhemery/victor/wiki"
+http://t.co/3CoDbfoG___302feedly.com/k/oPpkJr___
+http://t.co/rpHNIzXu___302feedly.com/k/r4ysG8___
+http://t.co/dRs1IGrd___[citation needed]&raquo; Blog Archive &raquo; the New York Times blows it big time on brain imaging___
+http://n.pr/qzh7sG___Dissolve My Nobel Prize! Fast! (A True Story) : Krulwich Wonders... : NPR___
+http://t.co/kjejAM5I___A Smattering of Selenium #63 &laquo; Official Selenium Blog___
+http://t.co/Z23jGxoH___The Main Goals of Software Test Plan &raquo; Offshore Software Testing | QATestLab___
+http://loadui.org/About-loadUI/what-is-loadui.html___LoadUI load testing tool___ 
+http://t.co/sy5Qnnlo___302itreallymatters.net/post/10991877834/facebook-watir-and-testing___
+http://t.co/baPqg64R___Why Do Some People Learn Faster? | Wired Science | Wired.com___
+http://t.co/pu6apKRO___The Case for Working With Your Hands - NYTimes.com___
+http://t.co/sU0ppUrj___Github introduction for my colleagues - Reinout van Rees___
+http://t.co/xiCo0oxG___Testing Considered Evil - Unprotocols___
+http://t.co/miTrahI0___A Story of a Heisenbug Hunt | Jeet Sukumaran___
+http://t.co/ZYjKi1Rn___Testing Podcast   &raquo; Coding QA Podcast___
+http://n.pr/p5PfZW___What's A Smoot? : Krulwich Wonders... : NPR___
+http://t.co/XZJcJjzD___302youtu.be/JAOTTLQ0rlY___
+http://t.co/KFBhm7bd___403www.dzone.com/links/why_code_review_beats_testing_evidence_from_decad.html___
+http://t.co/22LcQFV9___Google Testing Blog: Unleash the QualityBots___
+http://t.co/OJLF90fg___Creative Tester: Attending Conferences and making most of it___
+http://n.pr/nuZYs9___Loving Steve : Krulwich Wonders... : NPR___
+http://t.co/feIymcnK___http://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf___
+http://t.co/uo1LE4qq___Touring&nbsp;Heuristic - Blog - michaeldkelly.com___
+http://t.co/hnYu2ADu___Better Testing | Insights, thoughts &amp; ideas___
+http://t.co/0gBaFts0___News Desk: Steve Jobs: &#8220;Technology Alone Is Not Enough&#8221; : The New Yorker___
+http://t.co/mXPFs0Co___The Black Swan (Taleb book) - Wikipedia, the free encyclopedia___
+http://t.co/w9N8EOMF___Project Estimation and Black Swans (Part 1) &laquo;  Developsense Blog___
+http://t.co/yr2Bk3q2___Rapid Reporter, exploratory notetaking &laquo;  Testing Thoughts___
+http://t.co/inqP9CfO___Expression Encoder 4 Overview | Microsoft&#174; Expression&#174;___
+http://t.co/80Hv1ZyQ___Magnifiant: exploring software testing | Huib&#039;s blog on Software Testing___
+http://t.co/qEdVDl3B___302www.nytimes.com/glogin___
+http://t.co/kA41tqL9___Extending RobotFramework to check emails___
+http://t.co/edUSKHr7___Google Code Playground___
+http://t.co/fT1skIXY___403www.dzone.com/links/r/why_google_web_toolkit_rots_your_brain_2.html___
+http://t.co/QAXzUYTv___403www.dzone.com/links/google_app_engine_vs_amazon_ec2.html___
+http://t.co/jLZ6wRcD___403www.dzone.com/links/how_to_speed_up_the_android_emulator_by_up_to_400.html___
+http://t.co/rgUwkwtK___Two Plates. One Herbivore. One Omnivore.   Which Is Which? : Krulwich Wonders... : NPR___
+http://t.co/QmY184Xw___Google Testing Blog: Take a BITE out of Bugs and Redundant Labor___
+http://t.co/uetJ2k53___People Skills managing change management webinars virtual meetings new technology innovation implementation___
+http://t.co/2rhTNARu___Forum | Weekend Testing___
+http://t.co/pyRoghCa___Push The Button - The Social Tester___
+http://t.co/L9ugQ1GQ___What Steve Jobs Can Teach Us - Unchartered Waters___
+http://t.co/WQ7E1HPK___Humility Contests | PCWorld___
+http://t.co/pyUpApE2___The Drive to Be Different | Wired Science | Wired.com___
+http://t.co/zvveI0Pg___Security researcher threatened with vulnerability repair bill - Risk - SC Magazine Australia - Secure Business Intelligence___
+http://t.co/CyPrKHqi___403www.dzone.com/links/r/penn_and_teller_help_rob_pike_and_dennis_ritchie.html___
+http://t.co/GhBZuuip___My Advice to the Occupy Wall Street Protesters | Politics News | Rolling Stone___
+http://t.co/JciEwEK7___Test scripts can't be written without exploration of what needs to be written. Thus scripted testing is parasitic on exploratory #testing.___
+http://t.co/K7pURcjz___Quality Perspectives - Mnemonics___
+http://t.co/Zv25w7fa___gefira blog &raquo; Sort of tired of long constant names &#8211; Bunch to the rescue!___
+http://t.co/wrdC1Pou___Camouflaged Cuttlefish: Don't Mind Me; I'm Not Here : Krulwich Wonders... : NPR___
+http://t.co/0Sb2aSHt___Programming antipatterns - Java Code Geeks___
+http://t.co/nZxqkerB___301/jimholmes/posts/11-10-15/using-test-oracles-to-ensure-your-tests-rsquo-true-validity.aspx___
+http://t.co/vjdKuPp1___Consistent User Actions - The Social Tester___
+http://t.co/0H6MdtXl___  Visit to Multunus &amp; other neighbors  | Official blog of Moolya Software Testing Private Limited___
+http://t.co/WC7Kea7l___Testing an SVG game___
+http://t.co/52sZp4KT___Automating an SVG game with Selenium WebDriver on Vimeo___
+http://t.co/R1DVH1Vs___A Smattering of Selenium #64 &laquo; Official Selenium Blog___
+http://t.co/VEWI2dQY___403www.dzone.com/links/r/why_you_shouldnt_have_to_deploy_overnight.html___
+http://t.co/YSF0vuVa___Confusion as an Oracle &laquo;  Developsense Blog___
+http://t.co/gnj4voSu___Google Testing Blog: Google JS Test, now in Open Source___
+http://t.co/TzjSKIsd___Code Kills : What Makes a Good Resume___
+http://t.co/zisPNPA9___Celestial Camouflage : Krulwich Wonders... : NPR___
+http://t.co/TJxQs1SO___Top Tips for Performance Testing | Performance Testing Professional___
+http://t.co/uZ0NMtpw___How Friends Ruin Memory: The Social Conformity Effect | Wired Science | Wired.com___
+http://t.co/4rqGzCIa___James Bach’s Blog  &raquo; Blog Archive   &raquo; Behavior-Driven Development vs. Testing___
+http://t.co/7bMtbGi7___Google Testing Blog___
+http://t.co/l3ywTQn5___ SalientBlue___
+http://t.co/vrgC7DQa___No, Not That Left, Your OTHER Left! : Krulwich Wonders... : NPR___
+http://t.co/5cTR2FcG___403www.dzone.com/links/signs_that_youre_a_bad_programmer.html___
+http://t.co/h0Us26d7___301github.com/blog/967-github-secrets___
+http://t.co/70qesXR0___403www.dzone.com/links/python_for_the_web.html___
+http://t.co/6dRJ5XLf___  Twitter driven exploratory software testing  | Official blog of Moolya Software Testing Private Limited___
+http://t.co/zBkGls9F___JavaScript, CSS, HTML Frameworks and Tools &#8211; my list  |  Gregs Ramblings___
+http://t.co/IQMFvCHd___Gravitate to people like you - The Social Tester___
+http://t.co/9M5XKtW6___Google Removes The + Search Command___
+http://t.co/vZ53n2Q4___How We Become Sports Fans: The Tyranny Of Fathers : Krulwich Wonders... : NPR___
+http://t.co/MUAOvVSR___Testing the Limits With Michael Bolton &#8211; Part I | Software Testing Blog___
+http://t.co/YU0nXFTM___Slide Design for Developers___
+http://t.co/XNtQJ02U___403www.dzone.com/links/r/nodejs_and_websockets.html___
+http://t.co/5W59s6Nt___testjutsu &raquo; Software testing? Not going away anytime soon.___
+http://t.co/3GVAOQQa___Considering Conferences - Unchartered Waters___
+http://t.co/FfKxXp7t___301github.com/blog/968-say-hello-to-hubot___
+http://t.co/WKf0pel8___The Book Bench: Is Self-Knowledge Overrated? : The New Yorker___
+http://t.co/yEhcEz0f___Services, practices & tools that should exist in any software development house, part 1 - Java Code Geeks___
+http://t.co/4Ihi66LY___302youtu.be/dFs9WO2B8uI___
+http://t.co/dj8olgqs___302ieeexplore.ieee.org/xpl/freeabs_all.jsp___
+http://t.co/liImeZ8g___302youtu.be/ueZ6tvqhk8U___
+http://t.co/W6DCddfK___http://www.developsense.com/articles/2009-07-ThreeKindsOfMeasurement.pdf___
+http://t.co/jWhSTqPA___Google Testing Blog: ScriptCover makes Javascript coverage analysis easy___
+http://t.co/ugzcYI8F___Royal Society journal archive made permanently free to access | Royal Society___
+http://t.co/XD9N0gTu___Tom Bissell on Rocksteady's Batman: Arkam City - Grantland___
+http://t.co/8jiv2XaA___Should Testers Play Planning Poker? &laquo;  Developsense Blog___
+http://t.co/PvgGcAiZ___http://www.kaner.com/pdfs/metrics2004.pdf___
+http://t.co/O26QJMDM___A Smattering of Selenium #66 &laquo; Official Selenium Blog___
+http://t.co/AA50XxjB___A Smattering of Selenium #67 &laquo; Official Selenium Blog___
+http://t.co/O4cFcOeB___10 things that made my Startup Profitable in the first year of Inception ___
+http://t.co/pkF0BgPl___xMMwhy &laquo;  Developsense Blog___
+http://t.co/IhQ0V4VL___302www.nytimes.com/glogin___
+http://t.co/EWcx0Lo2___A Halloween Love Story : Krulwich Wonders... : NPR___
+http://t.co/MJ26ODBp___Testing the Limits With Michael Bolton &#8211; Part II | Software Testing Blog___
+http://t.co/YEU0MFqi___301github.com/dhemery/victor___
+http://t.co/uXeWuFxt___301github.com/dhemery/victor/wiki___

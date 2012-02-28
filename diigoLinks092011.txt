@@ -1,103 +1,103 @@
-http://t.co/yj4QXKQ "Scott Chacon on the Interwebs"
-http://t.co/3t7fv97 "Tester Tested !: How Pradeep teaches software testing - Part 3"
-http://t.co/HBV5qof "403www.dzone.com/links/so_you_have_an_app_idea.html"
-http://t.co/9S3irD2 "Google Testing Blog: The 10 Minute Test Plan"
-http://t.co/ju2rFRI "Coding QA Podcast on Exploratory Testing &laquo;  Developsense Blog"
-http://t.co/3CQ9yII "302sgp.cm/fc1f6d"
-http://t.co/3GiTnMw "Can You Test a Clock in a Sealed Box? &laquo;  Developsense Blog"
-http://t.co/UGVQFLW "How 9/11 Changed My IT Consulting Career | ZDNet "
-http://t.co/9gUX2bL "Better Testing | Insights, thoughts &amp; ideas"
-http://t.co/jaZhw0h "My journey of learning hacking | Santhosh Tuppad&#039;s"
-http://t.co/BDKZCf5 "Security Testing - Software Testing Club -  An Online  Software Testing Community"
-http://t.co/4hrD8ZM "James Bach’s Blog  &raquo; Blog Archive   &raquo; Mindmap From my Keynote"
-http://t.co/d8yCxeh "Do You Need More Testers? A Context-Driven Exercise &laquo;  Developsense Blog"
-http://t.co/JuMat9U "The Little Black Book on Test Design | thoughts from the test eye"
-http://t.co/VnO0bFf "403www.dzone.com/links/r/all_the_git_hooks_you_need.html"
-http://t.co/KDzHdCT "Seth's Blog: Back to (the wrong) school"
-http://n.pr/oAsFyz "A Deathbed Story I Would Never Tell : Krulwich Wonders... : NPR"
-http://t.co/52WylmD "Quick tips for improving Java apps performance - Java Code Geeks"
-http://t.co/13ebL0q "Testing Problems Are Test Results &laquo;  Developsense Blog"
-http://t.co/MXAuk7i "Glue Languages Make You a Better Coder"
-http://t.co/sWlPghI "Customer Support Doesn't Have to Suck"
-http://t.co/xV0J3jR "302youtu.be/ILkT_HV9DVU"
-http://t.co/r2NcHll "The Mysterious 'V' In My Hotel Bathroom : Krulwich Wonders... : NPR"
-http://t.co/i3Z7zkD "Notes From James Bach&#8217;s Lecture on Testing | SQroot :: Don&#039;t be negative!"
-http://t.co/091APkk "Git Pre-Commit Python Syntax | ScrollingText"
-http://t.co/FJHOp4k "The Neuroscience of Groupon | Wired Science | Wired.com"
-http://t.co/6N7RMYP "Ned Batchelder: Online Python exercises"
-http://n.pr/nFQcKO "Weekends Off: In The Dark : Krulwich Wonders... : NPR"
-http://t.co/BV9UxIV "Testing is a Whole Team Activity  |  Test Obsessed"
-http://t.co/LYDJ4kW "10 must-read books for developers | Development tools - InfoWorld"
-http://t.co/D55ziUH "http://www.developsense.com/presentations/2011-08-CAST-ContextDrivenTesting.pdf"
-http://n.pr/qzzfED "Extreme Tidying Up : Krulwich Wonders... : NPR"
-http://ow.ly/6rsOv "Gerald Weinberg's Secrets of Writing and Consulting: Persistence in Problem Solving"
-http://ow.ly/6rsPb "Gerald Weinberg's Secrets of Writing and Consulting: Persistence in Problem Solving"
-http://t.co/dTAnSVd "Missing dots from email addresses opens 20GB data leak | Naked Security"
-http://t.co/lFmEKGb "The Trenches - Ship It."
-http://t.co/cCSg6B8 "Why I No Longer Buy Expensive Wine | Drinking Out Loud | News &amp; Features | Wine Spectator"
-http://t.co/ARITLwr "testjutsu &raquo; Framing your tests, Framing your audience"
-http://t.co/kQHtJAG " Cem Kaner, J.D., Ph.D."
-http://t.co/xaTJOmi "  The Process is not the Point - Bokardo"
-http://n.pr/nSW2r9 "Lord, Save Me From The Krebs Cycle : Krulwich Wonders... : NPR"
-http://t.co/OR0JaJg4 "Metric Mania - NYTimes.com"
-http://ow.ly/6v8MO "Regression to the Mean | Blog | NewVoiceMedia"
-http://t.co/k7SE4i2c "Professor Michael Roberto's Blog: Leaders, Explore outside your domain!"
-http://t.co/NFAMxBQb "404www.scientificamerican.com/article.cfm"
-http://t.co/GNVzKuxS "Why Do Cars Make Us Drool? | Wired Science | Wired.com"
-http://t.co/tGzNYt1a "Please replace me, let me go - The Social Tester"
-http://n.pr/n9QlpZ "Why'd It Take So Long To Invent The Wheel? : Krulwich Wonders... : NPR"
-http://t.co/pSCr4NVu "Fix Linux filename encodings with Python"
-http://t.co/VjF0fhmn "Alfie Kohn: Whoever Said There's No Such Thing As a Stupid Question Never Looked Carefully at a Standardized Test"
-http://t.co/dEiBH77k "The Psychology Of Yogurt | Wired Science | Wired.com"
-http://t.co/vmA3e9rH "What diversity means &laquo;  Snarkmarket"
-http://t.co/swkRC6eP "Don&#8217;t rewrite Your Application - Java Code Geeks"
-http://n.pr/qvJM8s "Lucretius, Man Of  Modern Mystery : Krulwich Wonders... : NPR"
-http://t.co/3gaUE2M0 "At Least Three Good Reasons for Testers to Learn to Program &laquo;  Developsense Blog"
-http://t.co/oM3BQv33 "The many are smarter than the few: How crowds can forecast quality &laquo; Anders Dinsen on software testing and development"
-http://t.co/wPBrRGyB "Tobias Fors"
-http://t.co/jyr1Z2n1 " The Pain and Gain of Edward Bear"
-http://mihaifonoage.blogspot.com/2010/01/unit-and-functional-testing-in-android.html "unit-and-functional-testing-in-android.html"
-http://t.co/UW1kFUZv "404www.youtube.com/watch"
-http://t.co/vHQIIQ4O "Elinor Ostrom delivers her Nobel Prize lecture, Indiana University professor Elinor Ostrom received the Nobel Prize in Economics for her research. HeraldTi..."
-http://t.co/LZUMeeNV "http://www.nobelprize.org/nobel_prizes/economics/laureates/2009/ostrom_lecture.pdf"
-http://t.co/dsR3HDjS "How GitHub Uses GitHub to Build GitHub"
-http://t.co/V5iGnmxo "403www.dzone.com/links/using_code_katas_to_improve_programming_skills.html"
-http://n.pr/qAOfve "The Toughest Little Bird You've Never Heard Of : Krulwich Wonders... : NPR"
-http://t.co/eqo7RDEI "Disposable Time &laquo;  Developsense Blog"
-http://t.co/oFEafMvo "Advice for Software  Development Managers"
-http://t.co/ppttoIkY "  An open letter to parents in India from an entrepreneur | Official blog of Moolya Software Testing Private Limited"
-http://t.co/XyRJO5yY "Understanding Linux CPU Load - when should you be worried?"
-http://t.co/t0scvQmh "Why Being Relaxed Makes Us Spend Too Much Money | Wired Science | Wired.com"
-http://t.co/CRKoXiGm "The Cooking Detector &laquo;  Developsense Blog"
-http://t.co/z8xsxtzL "Element 34 - Know and Respect the moving parts of Automation"
-http://n.pr/oN15ME "What's He Saying? 'Bahh' Or 'Fahh'? A Brain Mystery : Krulwich Wonders... : NPR"
-http://t.co/3e0Pdmxp "302youtu.be/ZEIAvD_Hoys"
-http://bit.ly/KMZW "Agile Testing Days 2012"
-http://t.co/YMVamlpI "404healthland.time.com/2011/09/22/a-software-testing-company-relies-on-employees-aspergers-skills/"
-http://t.co/O4t3mWRL "403www.dzone.com/links/quiz_for_java_developers.html"
-http://t.co/Vfet9SWp "403www.dzone.com/links/how_can_c_programs_be_so_reliable.html"
-http://t.co/IHiWXWRE "A Smattering of Selenium #59 &laquo; Official Selenium Blog"
-http://t.co/WjIvA3EK "CSS Locator Reference/Cheat Sheet for XPath people | Nat On Testing"
-http://t.co/Zy4kNbEm "BPS Research Digest: For Christians, Dawkins and the Qur'an leave a bad taste in the mouth, literally"
-http://t.co/dIqpiP0t "The Necessity of Funding Failure | Wired Science | Wired.com"
-http://t.co/IeWfA2rt "500www.linkedin.com/slink"
-http://t.co/1PwLXd5t "403www.dzone.com/links/identifying_passionate_developers.html"
-http://n.pr/nJs6Rd "Avoiding Global Warming Stories : Krulwich Wonders... : NPR"
-http://t.co/U0QgO9NQ "Amazon.com: How to Reduce the Cost of Software Testing (9781439861554): Matthew Heusser, Govind Kulkarni: Books"
-http://t.co/vQ0L6qEV "Testing the Limits With James Bach &#8211; Part I | Software Testing Blog"
-http://t.co/4NSEZHW9 "A Smattering of Selenium #60 &laquo; Official Selenium Blog"
-http://t.co/YJKlVsrg "Facebook's complexity will be its doom • The Register"
-http://t.co/oTGyzipo "http://www.developsense.com/presentations/2011-04-06-LTG-WhyDidntYouFindThatBug.pdf"
-http://t.co/LS3vTtiy "http://www.satisfice.com/presentations/etta.pdf"
-http://n.pr/p8QW2p "VIDEO: Wanna Live Forever? Become A Noun : Krulwich Wonders... : NPR"
-http://t.co/o3yXqu25 "403www.dzone.com/links/11_best_google_labs_tools_for_web_developers.html"
-http://t.co/AeMIORB6 "A Smattering of Selenium #61 &laquo; Official Selenium Blog"
-http://t.co/3gaUE2M0 "At Least Three Good Reasons for Testers to Learn to Program &laquo;  Developsense Blog"
-http://t.co/SBPDwI86 "404zeespencer.com/2011/09/at-least-3-reasons-for-software-testers-not-to-learn-to-code/"
-http://t.co/8wluqwte "403www.dzone.com/links/r/what_do_you_mean_dont_submit_bugs.html"
-http://t.co/WLG6F2Jy "A Smattering of Selenium #62 &laquo; Official Selenium Blog"
-http://t.co/xAkPftN6 "Every Child Is A Scientist | Wired Science | Wired.com"
-http://t.co/1iZSyRyU "Tester Tested !: TASTRO - Tester's Astrology by Rrajesh Barde"
-http://t.co/uxaqQJqH "Goranka Bjedov on testing"
-http://t.co/0Z0fyO8E "Scaling GitHub's Employees"
-http://t.co/YfAdUPnK "Testing:  Difficult or Time-Consuming? &laquo;  Developsense Blog"
+http://t.co/yj4QXKQ___Scott Chacon on the Interwebs___
+http://t.co/3t7fv97___Tester Tested !: How Pradeep teaches software testing - Part 3___
+http://t.co/HBV5qof___403www.dzone.com/links/so_you_have_an_app_idea.html___
+http://t.co/9S3irD2___Google Testing Blog: The 10 Minute Test Plan___
+http://t.co/ju2rFRI___Coding QA Podcast on Exploratory Testing &laquo;  Developsense Blog___
+http://t.co/3CQ9yII___302sgp.cm/fc1f6d___
+http://t.co/3GiTnMw___Can You Test a Clock in a Sealed Box? &laquo;  Developsense Blog___
+http://t.co/UGVQFLW___How 9/11 Changed My IT Consulting Career | ZDNet ___
+http://t.co/9gUX2bL___Better Testing | Insights, thoughts &amp; ideas___
+http://t.co/jaZhw0h___My journey of learning hacking | Santhosh Tuppad&#039;s___
+http://t.co/BDKZCf5___Security Testing - Software Testing Club -  An Online  Software Testing Community___
+http://t.co/4hrD8ZM___James Bach’s Blog  &raquo; Blog Archive   &raquo; Mindmap From my Keynote___
+http://t.co/d8yCxeh___Do You Need More Testers? A Context-Driven Exercise &laquo;  Developsense Blog___
+http://t.co/JuMat9U___The Little Black Book on Test Design | thoughts from the test eye___
+http://t.co/VnO0bFf___403www.dzone.com/links/r/all_the_git_hooks_you_need.html___
+http://t.co/KDzHdCT___Seth's Blog: Back to (the wrong) school___
+http://n.pr/oAsFyz___A Deathbed Story I Would Never Tell : Krulwich Wonders... : NPR___
+http://t.co/52WylmD___Quick tips for improving Java apps performance - Java Code Geeks___
+http://t.co/13ebL0q___Testing Problems Are Test Results &laquo;  Developsense Blog___
+http://t.co/MXAuk7i___Glue Languages Make You a Better Coder___
+http://t.co/sWlPghI___Customer Support Doesn't Have to Suck___
+http://t.co/xV0J3jR___302youtu.be/ILkT_HV9DVU___
+http://t.co/r2NcHll___The Mysterious 'V' In My Hotel Bathroom : Krulwich Wonders... : NPR___
+http://t.co/i3Z7zkD___Notes From James Bach&#8217;s Lecture on Testing | SQroot :: Don&#039;t be negative!___
+http://t.co/091APkk___Git Pre-Commit Python Syntax | ScrollingText___
+http://t.co/FJHOp4k___The Neuroscience of Groupon | Wired Science | Wired.com___
+http://t.co/6N7RMYP___Ned Batchelder: Online Python exercises___
+http://n.pr/nFQcKO___Weekends Off: In The Dark : Krulwich Wonders... : NPR___
+http://t.co/BV9UxIV___Testing is a Whole Team Activity  |  Test Obsessed___
+http://t.co/LYDJ4kW___10 must-read books for developers | Development tools - InfoWorld___
+http://t.co/D55ziUH___http://www.developsense.com/presentations/2011-08-CAST-ContextDrivenTesting.pdf___
+http://n.pr/qzzfED___Extreme Tidying Up : Krulwich Wonders... : NPR___
+http://ow.ly/6rsOv___Gerald Weinberg's Secrets of Writing and Consulting: Persistence in Problem Solving___
+http://ow.ly/6rsPb___Gerald Weinberg's Secrets of Writing and Consulting: Persistence in Problem Solving___
+http://t.co/dTAnSVd___Missing dots from email addresses opens 20GB data leak | Naked Security___
+http://t.co/lFmEKGb___The Trenches - Ship It.___
+http://t.co/cCSg6B8___Why I No Longer Buy Expensive Wine | Drinking Out Loud | News &amp; Features | Wine Spectator___
+http://t.co/ARITLwr___testjutsu &raquo; Framing your tests, Framing your audience___
+http://t.co/kQHtJAG___ Cem Kaner, J.D., Ph.D.___
+http://t.co/xaTJOmi___  The Process is not the Point - Bokardo___
+http://n.pr/nSW2r9___Lord, Save Me From The Krebs Cycle : Krulwich Wonders... : NPR___
+http://t.co/OR0JaJg4___Metric Mania - NYTimes.com___
+http://ow.ly/6v8MO___Regression to the Mean | Blog | NewVoiceMedia___
+http://t.co/k7SE4i2c___Professor Michael Roberto's Blog: Leaders, Explore outside your domain!___
+http://t.co/NFAMxBQb___404www.scientificamerican.com/article.cfm___
+http://t.co/GNVzKuxS___Why Do Cars Make Us Drool? | Wired Science | Wired.com___
+http://t.co/tGzNYt1a___Please replace me, let me go - The Social Tester___
+http://n.pr/n9QlpZ___Why'd It Take So Long To Invent The Wheel? : Krulwich Wonders... : NPR___
+http://t.co/pSCr4NVu___Fix Linux filename encodings with Python___
+http://t.co/VjF0fhmn___Alfie Kohn: Whoever Said There's No Such Thing As a Stupid Question Never Looked Carefully at a Standardized Test___
+http://t.co/dEiBH77k___The Psychology Of Yogurt | Wired Science | Wired.com___
+http://t.co/vmA3e9rH___What diversity means &laquo;  Snarkmarket___
+http://t.co/swkRC6eP___Don&#8217;t rewrite Your Application - Java Code Geeks___
+http://n.pr/qvJM8s___Lucretius, Man Of  Modern Mystery : Krulwich Wonders... : NPR___
+http://t.co/3gaUE2M0___At Least Three Good Reasons for Testers to Learn to Program &laquo;  Developsense Blog___
+http://t.co/oM3BQv33___The many are smarter than the few: How crowds can forecast quality &laquo; Anders Dinsen on software testing and development___
+http://t.co/wPBrRGyB___Tobias Fors___
+http://t.co/jyr1Z2n1___ The Pain and Gain of Edward Bear___
+http://mihaifonoage.blogspot.com/2010/01/unit-and-functional-testing-in-android.html___unit-and-functional-testing-in-android.html___
+http://t.co/UW1kFUZv___404www.youtube.com/watch___
+http://t.co/vHQIIQ4O___Elinor Ostrom delivers her Nobel Prize lecture, Indiana University professor Elinor Ostrom received the Nobel Prize in Economics for her research. HeraldTi...___
+http://t.co/LZUMeeNV___http://www.nobelprize.org/nobel_prizes/economics/laureates/2009/ostrom_lecture.pdf___
+http://t.co/dsR3HDjS___How GitHub Uses GitHub to Build GitHub___
+http://t.co/V5iGnmxo___403www.dzone.com/links/using_code_katas_to_improve_programming_skills.html___
+http://n.pr/qAOfve___The Toughest Little Bird You've Never Heard Of : Krulwich Wonders... : NPR___
+http://t.co/eqo7RDEI___Disposable Time &laquo;  Developsense Blog___
+http://t.co/oFEafMvo___Advice for Software  Development Managers___
+http://t.co/ppttoIkY___  An open letter to parents in India from an entrepreneur | Official blog of Moolya Software Testing Private Limited___
+http://t.co/XyRJO5yY___Understanding Linux CPU Load - when should you be worried?___
+http://t.co/t0scvQmh___Why Being Relaxed Makes Us Spend Too Much Money | Wired Science | Wired.com___
+http://t.co/CRKoXiGm___The Cooking Detector &laquo;  Developsense Blog___
+http://t.co/z8xsxtzL___Element 34 - Know and Respect the moving parts of Automation___
+http://n.pr/oN15ME___What's He Saying? 'Bahh' Or 'Fahh'? A Brain Mystery : Krulwich Wonders... : NPR___
+http://t.co/3e0Pdmxp___302youtu.be/ZEIAvD_Hoys___
+http://bit.ly/KMZW___Agile Testing Days 2012___
+http://t.co/YMVamlpI___404healthland.time.com/2011/09/22/a-software-testing-company-relies-on-employees-aspergers-skills/___
+http://t.co/O4t3mWRL___403www.dzone.com/links/quiz_for_java_developers.html___
+http://t.co/Vfet9SWp___403www.dzone.com/links/how_can_c_programs_be_so_reliable.html___
+http://t.co/IHiWXWRE___A Smattering of Selenium #59 &laquo; Official Selenium Blog___
+http://t.co/WjIvA3EK___CSS Locator Reference/Cheat Sheet for XPath people | Nat On Testing___
+http://t.co/Zy4kNbEm___BPS Research Digest: For Christians, Dawkins and the Qur'an leave a bad taste in the mouth, literally___
+http://t.co/dIqpiP0t___The Necessity of Funding Failure | Wired Science | Wired.com___
+http://t.co/IeWfA2rt___500www.linkedin.com/slink___
+http://t.co/1PwLXd5t___403www.dzone.com/links/identifying_passionate_developers.html___
+http://n.pr/nJs6Rd___Avoiding Global Warming Stories : Krulwich Wonders... : NPR___
+http://t.co/U0QgO9NQ___Amazon.com: How to Reduce the Cost of Software Testing (9781439861554): Matthew Heusser, Govind Kulkarni: Books___
+http://t.co/vQ0L6qEV___Testing the Limits With James Bach &#8211; Part I | Software Testing Blog___
+http://t.co/4NSEZHW9___A Smattering of Selenium #60 &laquo; Official Selenium Blog___
+http://t.co/YJKlVsrg___Facebook's complexity will be its doom • The Register___
+http://t.co/oTGyzipo___http://www.developsense.com/presentations/2011-04-06-LTG-WhyDidntYouFindThatBug.pdf___
+http://t.co/LS3vTtiy___http://www.satisfice.com/presentations/etta.pdf___
+http://n.pr/p8QW2p___VIDEO: Wanna Live Forever? Become A Noun : Krulwich Wonders... : NPR___
+http://t.co/o3yXqu25___403www.dzone.com/links/11_best_google_labs_tools_for_web_developers.html___
+http://t.co/AeMIORB6___A Smattering of Selenium #61 &laquo; Official Selenium Blog___
+http://t.co/3gaUE2M0___At Least Three Good Reasons for Testers to Learn to Program &laquo;  Developsense Blog___
+http://t.co/SBPDwI86___404zeespencer.com/2011/09/at-least-3-reasons-for-software-testers-not-to-learn-to-code/___
+http://t.co/8wluqwte___403www.dzone.com/links/r/what_do_you_mean_dont_submit_bugs.html___
+http://t.co/WLG6F2Jy___A Smattering of Selenium #62 &laquo; Official Selenium Blog___
+http://t.co/xAkPftN6___Every Child Is A Scientist | Wired Science | Wired.com___
+http://t.co/1iZSyRyU___Tester Tested !: TASTRO - Tester's Astrology by Rrajesh Barde___
+http://t.co/uxaqQJqH___Goranka Bjedov on testing___
+http://t.co/0Z0fyO8E___Scaling GitHub's Employees___
+http://t.co/YfAdUPnK___Testing:  Difficult or Time-Consuming? &laquo;  Developsense Blog___

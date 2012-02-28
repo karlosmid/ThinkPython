@@ -1,73 +1,73 @@
-http://t.co/5qeyfvGr "Being an excellent tester - Software Testing Club -  An Online  Software Testing Community"
-http://t.co/41jft6tY "403www.dzone.com/links/multiple_programming_languages_vulnerable_to_dos.html"
-http://t.co/oDrTCJ80 "403www.dzone.com/links/investing_in_myself_realizing_my_value_as_a_progr.html"
-http://t.co/LzB03eR4 "Element 34 - Just Enough Python to be Dangerous"
-http://t.co/KDS8wwOm "Why Reddit Is Not Worth It? - Programming ≈ Fun"
-http://t.co/TZzri5Po "SST - Web Test Framework &mdash; SST - Web Test Framework 0.2.0 documentation"
-http://t.co/Fji1habN "sst 0.2.0 : Python Package Index"
-http://t.co/qnasekEZ "Introduction &#8211; Share your learning curve &laquo; the testing curve"
-http://t.co/KISk7scN "Expected Results: A functional end"
-http://t.co/dlzS05Qv "  Your Load Testing Questions, Answered: Part Four - Application Performance Blog"
-https://t.co/nHoHJemg "301plus.google.com/u/0/114361487365233459418/posts/GEHE24aRKKw"
-http://t.co/h74GNnfY "Why you should NEVER fly into Washington National Airport &laquo; JetHead&#039;s Blog"
-http://t.co/M8bGnDqi "Element 34 - How I shaved 50% off a single suite run &#8211; a write-up"
-http://t.co/YzuSfWtK "Discovered Tester: Reflections on 2011, a year of trial, growth, and questions"
-http://t.co/vPX60MOG "Expected Results: A functional end"
-http://t.co/u8LVopJq "Teaching is about conveying a way of thinking &laquo; Jon Udell"
-http://t.co/GUgd5zd3 "Tester Tested !: How Pradeep teaches software testing - Part 4"
-http://t.co/0DsBofGQ "Workroom Productions: There are Plenty of Ways to Manage Exploratory Testing"
-http://t.co/M56MFVnZ "A Smattering of Selenium #72 &laquo; Official Selenium Blog"
-http://t.co/J0z3iUgK "403www.dzone.com/links/recruiting_programmers_to_your_startup.html"
-http://t.co/J6ZZ7KR3 "403www.dzone.com/links/r/algorithm_of_the_week_interpolation_search.html"
-http://t.co/dokMTTMG "403www.dzone.com/links/12_wireframe_ui_stencils_for_quick_prototyping.html"
-http://t.co/4mdW0tB6 "VisualVM"
-http://t.co/jNeVwXfo "BBC News - Viewpoint: AI will change our relationship with tech"
-http://t.co/S5CF5kTn "7 Deadly Sins of Automated Software Testing &laquo; Adrian Smith"
-http://t.co/Pudt4iGC "Time stamp bug exposes photos on locked iPhone | InSecurity Complex - CNET News"
-http://t.co/P7mm5ce6 "Javascript Math Error: Inexact Floats - Stack Overflow"
-http://t.co/vqANsWJz "403www.dzone.com/links/the_secret_to_getting_rich_in_2012_open_apis.html"
-http://t.co/HxB6Yuif "Mission Creep | Exploring Uncertainty"
-http://t.co/3XD8McNd "A New Job for a New Year?"
-http://t.co/HfG1cfGN "  Three stories of 2011 | Official blog of Moolya Software Testing Private Limited"
-http://t.co/HyxRdZhO "Developer.com"
-http://t.co/2WBzmiKR "Flying Robots Build A Tower Near Paris : Krulwich Wonders... : NPR"
-http://t.co/gbN7Jurg "403www.dzone.com/links/12_resolutions_for_programmers.html"
-http://t.co/AdXPyD1y "403www.dzone.com/links/difference_between_dom_and_sax_parsers_in_java.html"
-http://t.co/mejYtr7o "Element 34 - Pagination for data sets you don&#8217;t control"
-http://t.co/D6ycMrNj "has_many :through - Yak Shaving"
-http://t.co/9Ix4d2rF "403www.dzone.com/links/plumbr_realtime_java_app_memory_leak_detector.html"
-http://t.co/7jfluYbr "403www.dzone.com/links/agile_vs_lean_yeah_yeah_whats_the_difference.html"
-http://t.co/GvBJaIed "Android Testing Service &#8211; Apkudo | Adventures in QA"
-http://t.co/MNL6knWH "5 Practices for Securing User Confidence | UX Magazine"
-http://t.co/M6UnYDci "403www.dzone.com/links/5_awesome_learning_resources_for_programmers_to_h.html"
-http://t.co/mIKoFdPF "Test This Blog - Eric Jacobson's Software Testing Blog: Tester New Year&#8217;s Resolutions"
-http://t.co/0f1jysUf "  Why you’re probably reading your performance measurement results wrong (but at least you’re in good company)"
-http://t.co/P5OZtiRT "Abakas: Improve, Then Brag"
-http://t.co/K5Gxg04F "INTERVJU: Startup guru Berislav Lopac otkriva sve tajne i zamke domaće startup scene | PoslovniPuls"
-http://t.co/JVNfE441 "What Software Has in Common with Schrödinger&#8217;s Cat  |  Test Obsessed"
-http://t.co/AfH6ZpPm "A Smattering of Selenium #73 &laquo; Official Selenium Blog"
-http://t.co/JamXfZLT "Alex Podelko"
-http://t.co/Ad8H2JYj "Abakas: Toolchain"
-http://t.co/PbjihBrg "Web Performance Optimization : Content Delivery Networks"
-http://t.co/AgxFy0NE "Bank Of America Kicks Man Out Of Mortgage Modification Program Over 80 Cents - The Consumerist"
-http://t.co/nubUYsTt "Bank Of America Won't Let New Bride Deposit Wedding Gift Checks Because She Didn't Change Her Last Name - The Consumerist"
-http://t.co/59NjfmsK "Typo involving 80 cents nearly cost man his home | TBO.com"
-http://t.co/UEUVPCIH "The Continuums of Scripted Testing and Exploratory Testing | thoughts from the test eye"
-http://t.co/hyzssO2c "403www.dzone.com/links/what_skills_should_a_core_java_developer_have.html"
-http://t.co/g0Wx485m "403www.dzone.com/links/actors_in_java.html"
-http://t.co/mRfwl8Lm "403www.dzone.com/links/java_tip_using_a_memory_mapped_file_for_a_huge_ma.html"
-http://t.co/mu5l2b1L "http://mindmapweekly.files.wordpress.com/2012/01/the-man-the-music-the-magic-and-the-motivation.png"
-http://t.co/kDNUdm0i "403www.dzone.com/links/understanding_the_command_design_pattern.html"
-http://www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/">http://www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/</a>&nbsp;Tester "404www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/http:/www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/a&nbsp"
-http://t.co/Ynzj4inY "403www.dzone.com/links/be_pragmatic_not_dogmatic.html"
-http://t.co/c5qOBnJb "Google+ Is Going To Mess Up The Internet"
-http://t.co/wHMw4a1H "Abakas: The Game Fad"
-http://t.co/LxjblIms "404loadstorm.com/2012/web-performance-optimization-part-9-optimizing-html"
-http://t.co/Z3hEBAYc "The Google App Engine Glass Ceiling | Ubershmekel&#039;s Uberpython Pythonlog"
-http://t.co/CTqi4Hk0 "Element 34 - If it can&#8217;t fail, its not a check"
-http://t.co/YdqcLhhi "Inside the Secret Fears of Agilists  |  Test Obsessed"
-http://t.co/8mBBd1sk "Quality Tree Web Site - Ruminations Archive 4/16/97"
-www.ft.com/intl/cms/s/0/ea3bb3b4-2a7d-11e1-8f04-00144feabdc0.html "Sinking into the ‘great stagnation" 
-http://t.co/IY6SyUJK "Honest to a Segfault &raquo; Entry &raquo; String representation in SpiderMonkey"
-http://t.co/oleEEYUL "403www.dzone.com/links/why_we_dont_hire_programmers_based_on_puzzles_api.html"
-http://t.co/jykAQo6t "Netokracijin wallpaper: Leah Busque ima metar i pol i preko 18 milijuna dolara za svoj startup &mdash;  Netokracija"
+http://t.co/5qeyfvGr___Being an excellent tester - Software Testing Club -  An Online  Software Testing Community___
+http://t.co/41jft6tY___403www.dzone.com/links/multiple_programming_languages_vulnerable_to_dos.html___
+http://t.co/oDrTCJ80___403www.dzone.com/links/investing_in_myself_realizing_my_value_as_a_progr.html___
+http://t.co/LzB03eR4___Element 34 - Just Enough Python to be Dangerous___
+http://t.co/KDS8wwOm___Why Reddit Is Not Worth It? - Programming ≈ Fun___
+http://t.co/TZzri5Po___SST - Web Test Framework &mdash; SST - Web Test Framework 0.2.0 documentation___
+http://t.co/Fji1habN___sst 0.2.0 : Python Package Index___
+http://t.co/qnasekEZ___Introduction &#8211; Share your learning curve &laquo; the testing curve___
+http://t.co/KISk7scN___Expected Results: A functional end___
+http://t.co/dlzS05Qv___  Your Load Testing Questions, Answered: Part Four - Application Performance Blog___
+https://t.co/nHoHJemg___301plus.google.com/u/0/114361487365233459418/posts/GEHE24aRKKw___
+http://t.co/h74GNnfY___Why you should NEVER fly into Washington National Airport &laquo; JetHead&#039;s Blog___
+http://t.co/M8bGnDqi___Element 34 - How I shaved 50% off a single suite run &#8211; a write-up___
+http://t.co/YzuSfWtK___Discovered Tester: Reflections on 2011, a year of trial, growth, and questions___
+http://t.co/vPX60MOG___Expected Results: A functional end___
+http://t.co/u8LVopJq___Teaching is about conveying a way of thinking &laquo; Jon Udell___
+http://t.co/GUgd5zd3___Tester Tested !: How Pradeep teaches software testing - Part 4___
+http://t.co/0DsBofGQ___Workroom Productions: There are Plenty of Ways to Manage Exploratory Testing___
+http://t.co/M56MFVnZ___A Smattering of Selenium #72 &laquo; Official Selenium Blog___
+http://t.co/J0z3iUgK___403www.dzone.com/links/recruiting_programmers_to_your_startup.html___
+http://t.co/J6ZZ7KR3___403www.dzone.com/links/r/algorithm_of_the_week_interpolation_search.html___
+http://t.co/dokMTTMG___403www.dzone.com/links/12_wireframe_ui_stencils_for_quick_prototyping.html___
+http://t.co/4mdW0tB6___VisualVM___
+http://t.co/jNeVwXfo___BBC News - Viewpoint: AI will change our relationship with tech___
+http://t.co/S5CF5kTn___7 Deadly Sins of Automated Software Testing &laquo; Adrian Smith___
+http://t.co/Pudt4iGC___Time stamp bug exposes photos on locked iPhone | InSecurity Complex - CNET News___
+http://t.co/P7mm5ce6___Javascript Math Error: Inexact Floats - Stack Overflow___
+http://t.co/vqANsWJz___403www.dzone.com/links/the_secret_to_getting_rich_in_2012_open_apis.html___
+http://t.co/HxB6Yuif___Mission Creep | Exploring Uncertainty___
+http://t.co/3XD8McNd___A New Job for a New Year?___
+http://t.co/HfG1cfGN___  Three stories of 2011 | Official blog of Moolya Software Testing Private Limited___
+http://t.co/HyxRdZhO___Developer.com___
+http://t.co/2WBzmiKR___Flying Robots Build A Tower Near Paris : Krulwich Wonders... : NPR___
+http://t.co/gbN7Jurg___403www.dzone.com/links/12_resolutions_for_programmers.html___
+http://t.co/AdXPyD1y___403www.dzone.com/links/difference_between_dom_and_sax_parsers_in_java.html___
+http://t.co/mejYtr7o___Element 34 - Pagination for data sets you don&#8217;t control___
+http://t.co/D6ycMrNj___has_many :through - Yak Shaving___
+http://t.co/9Ix4d2rF___403www.dzone.com/links/plumbr_realtime_java_app_memory_leak_detector.html___
+http://t.co/7jfluYbr___403www.dzone.com/links/agile_vs_lean_yeah_yeah_whats_the_difference.html___
+http://t.co/GvBJaIed___Android Testing Service &#8211; Apkudo | Adventures in QA___
+http://t.co/MNL6knWH___5 Practices for Securing User Confidence | UX Magazine___
+http://t.co/M6UnYDci___403www.dzone.com/links/5_awesome_learning_resources_for_programmers_to_h.html___
+http://t.co/mIKoFdPF___Test This Blog - Eric Jacobson's Software Testing Blog: Tester New Year&#8217;s Resolutions___
+http://t.co/0f1jysUf___  Why you’re probably reading your performance measurement results wrong (but at least you’re in good company)___
+http://t.co/P5OZtiRT___Abakas: Improve, Then Brag___
+http://t.co/K5Gxg04F___INTERVJU: Startup guru Berislav Lopac otkriva sve tajne i zamke domaće startup scene | PoslovniPuls___
+http://t.co/JVNfE441___What Software Has in Common with Schrödinger&#8217;s Cat  |  Test Obsessed___
+http://t.co/AfH6ZpPm___A Smattering of Selenium #73 &laquo; Official Selenium Blog___
+http://t.co/JamXfZLT___Alex Podelko___
+http://t.co/Ad8H2JYj___Abakas: Toolchain___
+http://t.co/PbjihBrg___Web Performance Optimization : Content Delivery Networks___
+http://t.co/AgxFy0NE___Bank Of America Kicks Man Out Of Mortgage Modification Program Over 80 Cents - The Consumerist___
+http://t.co/nubUYsTt___Bank Of America Won't Let New Bride Deposit Wedding Gift Checks Because She Didn't Change Her Last Name - The Consumerist___
+http://t.co/59NjfmsK___Typo involving 80 cents nearly cost man his home | TBO.com___
+http://t.co/UEUVPCIH___The Continuums of Scripted Testing and Exploratory Testing | thoughts from the test eye___
+http://t.co/hyzssO2c___403www.dzone.com/links/what_skills_should_a_core_java_developer_have.html___
+http://t.co/g0Wx485m___403www.dzone.com/links/actors_in_java.html___
+http://t.co/mRfwl8Lm___403www.dzone.com/links/java_tip_using_a_memory_mapped_file_for_a_huge_ma.html___
+http://t.co/mu5l2b1L___http://mindmapweekly.files.wordpress.com/2012/01/the-man-the-music-the-magic-and-the-motivation.png___
+http://t.co/kDNUdm0i___403www.dzone.com/links/understanding_the_command_design_pattern.html___
+http://www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/___>http://www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/</a>&nbsp;Tester___404www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/http:/www.shino.de/2012/01/04/some-surveys-on-the-state-of-our-craft/a&nbsp"
+http://t.co/Ynzj4inY___403www.dzone.com/links/be_pragmatic_not_dogmatic.html___
+http://t.co/c5qOBnJb___Google+ Is Going To Mess Up The Internet___
+http://t.co/wHMw4a1H___Abakas: The Game Fad___
+http://t.co/LxjblIms___404loadstorm.com/2012/web-performance-optimization-part-9-optimizing-html___
+http://t.co/Z3hEBAYc___The Google App Engine Glass Ceiling | Ubershmekel&#039;s Uberpython Pythonlog___
+http://t.co/CTqi4Hk0___Element 34 - If it can&#8217;t fail, its not a check___
+http://t.co/YdqcLhhi___Inside the Secret Fears of Agilists  |  Test Obsessed___
+http://t.co/8mBBd1sk___Quality Tree Web Site - Ruminations Archive 4/16/97___
+www.ft.com/intl/cms/s/0/ea3bb3b4-2a7d-11e1-8f04-00144feabdc0.html___Sinking into the ‘great stagnation___ 
+http://t.co/IY6SyUJK___Honest to a Segfault &raquo; Entry &raquo; String representation in SpiderMonkey___
+http://t.co/oleEEYUL___403www.dzone.com/links/why_we_dont_hire_programmers_based_on_puzzles_api.html___
+http://t.co/jykAQo6t___Netokracijin wallpaper: Leah Busque ima metar i pol i preko 18 milijuna dolara za svoj startup &mdash;  Netokracija___

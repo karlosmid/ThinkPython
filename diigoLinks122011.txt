@@ -1,212 +1,212 @@
-http://t.co/RBzNZXuB "403www.dzone.com/links/rise_of_the_popped_collar_programmer.html"
-http://t.co/u1MHFgKw "403www.dzone.com/links/r/iterationless_development_the_latest_new_new_thing.html"
-http://t.co/ADWlItMa "All Things Quality: Top 5 Books About Testing and Quality Assurance"
-http://t.co/mKvlgSUk "Adam Goucher  "
-http://t.co/0NdLwZ0i "http://www.chillarege.com/authwork/papers1990s/TestingBestPractice.pdf"
-http://t.co/aEfzz7oq "The Psychology of Nakedness | Wired Science | Wired.com"
-http://t.co/NvhUysR6 "High School Teaches Students a Different Kind of Testing &#8211; App Testing | Software Testing Blog"
-http://t.co/2oSWS78T "The Library Phantom Returns! : Krulwich Wonders... : NPR"
-http://t.co/ed01USe8 "301community.rapid7.com/community/metasploit/blog/2011/11/30/test-results-for-javarhino"
-http://t.co/jIPO3MmS "Peak Performance"
-http://t.co/WxcCV4jW "From the mailbox: selecting test automation tools  |  Test Obsessed"
-http://t.co/tpPvqBu1 "Under Test - The Social Tester"
-http://t.co/xLdf3jnb "http://watirmelon.files.wordpress.com/2011/05/specificationbyexamplealovestory1.pdf"
-http://t.co/lkYf9o5T "Hey Twitter: Give us our Tweets"
-http://t.co/D8Ka2sp7 "Using Storyboards and Sentiment Charts to Quantify Customer Experience :: UXmatters"
-http://t.co/lPyJxRz4 "Do Nice Guys Finish Last? | Wired Science | Wired.com"
-http://watirmelon.com/2011/12/03/a-tale-of-three-ruby-automated-testing-apis-redux/ "A HUGEly funny spelling mistake | WatirMelon"
-http://t.co/Pdw9a0JD "Apprentice Andreas: "Models" at Agile Testing Days 2011"
-http://t.co/ikbXVcsQ "404www.youtube.com/watch"
-http://t.co/993Y7HWA "Testing is some value to someone who matters | Arborosa"
-http://t.co/ZS8SUcRM "10 reasons why You are NOT a Professional Tester!  &#8212; Part 2 | QA Intelligence - a QABlog"
-http://t.co/8R5eCVUP "Tester Tested !: Truth about test plan document & test case document"
-http://t.co/BPjves82 "TCLGroupLimited"
-http://t.co/306GXf6N "Shapes of Actions &laquo;  Developsense Blog"
-http://t.co/T4h0gPH3 "The Best Hike On Mars You'll Ever Take : Krulwich Wonders... : NPR"
-http://t.co/9vWrPnpc "403www.dzone.com/links/south_park_in_css3_or_interpreting_cartmancss.html"
-http://t.co/BAKiCHia "Software Testing - a Sisyphean Task?: Recruitment By Example"
-http://t.co/n1J7DlsT "403www.dzone.com/links/the_mature_programmer.html"
-http://t.co/dFC4zuNy "403www.dzone.com/links/r/algorithm_of_the_week_linear_search_in_sorted_lis.html"
-http://t.co/VbRWr1CQ "302www.nytimes.com/glogin"
-http://t.co/7g8FLQFi "Exploring Uncertainty | A Software Testing Blog"
-http://t.co/slN8bGSG " The Jimmy Buffett Life - Unchartered Waters"
-http://t.co/ElzZsgPK "Why Sugar Makes Us Sleepy (And Protein Wakes Us Up) | Wired Science | Wired.com"
-http://t.co/48VgR2dr "302summify.com/ISQTInternational/2011/12/07/1/"
-http://t.co/NjFeuZhn "Excuses for testers when bugs are caught in later testing cycles/UAT/Production"
-http://t.co/cf9x4Jrt "302feedly.com/k/rBjTlH"
-http://t.co/I8WSfFUy "Where to start? | Student of Live, The Universe and Everything"
-http://t.co/eHKCzg5b "403www.dzone.com/links/test_a_complete_failure_of_the_jvm.html"
-http://t.co/YQJ1jLUX "Study Finds Getting Smacked Right In The Mouth With A Goddamn Tree Branch Really Sucks | The Onion - America's Finest News Source"
-http://t.co/mZiD2fGk "Testing Techniques - Not Writing Tests - Java Code Geeks"
-http://t.co/7ndhOvnz "The Misuse of End To End Tests - Testing Techniques 2 - Java Code Geeks"
-http://t.co/Ge34jQCH "The Ellis Island Bug &laquo;  Developsense Blog"
-http://t.co/LuuXbFTd "Vowels Control Your Brain : Krulwich Wonders... : NPR"
-http://t.co/V10CeDnI "403www.dzone.com/links/writing_reflective_unit_tests_to_improve_code_qua.html"
-http://t.co/FFngCMKI "Peak Performance"
-http://t.co/hTCltPey "What Should you Unit Test? - Testing Techniques 3 - Java Code Geeks"
-http://t.co/Dkn0H0Px "James Bach’s Blog  &raquo; Blog Archive   &raquo; Exploratory Testing is not &#8220;Experienced-Based&#8221; Testing"
-http://t.co/zUIK52av "Agile people still don&#039;t get it &laquo;  Otaku, Cedric&#039;s blog"
-http://t.co/fodSqB7N "403www.dzone.com/links/what_demotivates_me_the_most_as_a_developer.html"
-http://t.co/iv5muFVv "403www.dzone.com/links/three_simple_ways_to_improve_the_security_of_your.html"
-http://t.co/QACNZCEk "Želite li da vam internetski projekt uspije, svoje (zaljubljene) korisnike morate (is)koristiti &mdash;  Netokracija"
-http://t.co/TVwJxYbF "403www.dzone.com/links/querying_the_memory_usage_of_a_java_object.html"
-http://t.co/1LmnaYP5 "403www.dzone.com/links/quality_is_overrated.html"
-http://t.co/vSszFKTz "403www.dzone.com/links/free_tools_to_test_your_website_on_mobile_devices.html"
-http://t.co/JSfy4Cz8 "<head><meta http-equiv="refresh" content="0;url=http://www.shino.de/2011/12/11/test-levels-in-agile-testing/"></head><body></body></html"
-http://t.co/phRT0CYP "All-Purpose Quality Status Report | thoughts from the test eye"
-http://t.co/Xe0y5PoH "403www.dzone.com/links/r/my_testing_and_code_analysis_toolbox.html"
-http://t.co/RrYiNCsM "Pipedrive CRM – sales pipeline management software"
-http://t.co/WTIOb0yh "403www.dzone.com/links/r/tdd_vs_bdd_or_why_cant_we_all_just_get_along.html"
-http://t.co/elvquR8P "The Pragmatic Bookshelf | PragPub 2011-10 | Lightsabers, Time Machines, &amp;amp; Other Automation Heuristics"
-http://t.co/5GSdM3Bc "Lebsontech LLC: DC Usability Blog"
-http://t.co/WXzu6s06 "What Do You Want From Tests? - Conversations with Dale"
-http://t.co/MYwAkdFp "Women Should Do Startups"
-http://t.co/FeIoWkTB "Regular Unit Tests and Stubs - Testing Techniques 4 - Java Code Geeks"
-http://t.co/DZj0R9bc "Why do people defend unjust, inept, and corrupt systems?"
-http://t.co/E8Y79h2J "403www.dzone.com/links/deadlock_in_java.html"
-http://t.co/V5MA2xIp "When Reinforcement Fails | Wired Science | Wired.com"
-http://t.co/35O0QDec "Scary Geology: Mountains In Motion : Krulwich Wonders... : NPR"
-http://www.tldp.org/LDP/abs/html/ "bash programming"
-http://t.co/icy1yXTH "403www.dzone.com/links/software_diagrammers_vs_software_architects.html"
-http://t.co/0BHSZkfP "Marlena&#8217;s Blog &laquo; Testing and Coding&#8230;Concurrently"
-http://t.co/YLSZFm1D "403www.dzone.com/links/automated_frontend_testing_for_the_lazy_with_fire.html"
-http://t.co/Wb1N2F5G "Understanding Carrier IQ: The Most Detailed Explanation So Far"
-http://t.co/hAQD7SsE "Unit Testing Using Mocks - Testing Techniques 5 - Java Code Geeks"
-http://t.co/NCv3eT21 "The user feedback problem &laquo; blog.iterate.no"
-http://t.co/yKFdHgIa "Exploratory Testing with Interactive Ruby &laquo; Software Quality Assurance and Test"
-http://t.co/tQBAv9zk "403www.dzone.com/links/the_truth_about_android_ios_ui_performance.html"
-http://t.co/vir6hEtA "Why the Postal Service Is Going Out of Business - Forbes"
-http://t.co/A7m5Z7CX "Study Hacks  &raquo; Blog Archive   &raquo; If You&#8217;re Busy, You&#8217;re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers"
-http://t.co/4iW2iSI6 "Element 34 - A refactoring writeup"
-http://t.co/4vtxuO6V "How Does the Brain Perceive Art? | Wired Science | Wired.com"
-http://t.co/VR1NVJl7 "Of Bosons And Disappearing Spoons : Krulwich Wonders... : NPR"
-http://t.co/tRzeDRB0 "Kad odrasli 'cendraju' - MojPosao.net"
-http://t.co/qg6o6eWQ "Gerald Weinberg's Secrets of Writing and Consulting: Change Artist Challenge #10: Learning from History"
-http://t.co/xmMuZ6PT "What Exploratory Testing Is Not (Part 1):  Touring &laquo;  Developsense Blog"
-http://t.co/5K86udc1 "pr_121511a.html"
-http://t.co/WoeN7ilr "What&#8217;s Working in Marketing    &raquo; What Eye Tracking Studies Reveal About Gen Y and Web Sites &raquo; Telesian.com"
-http://t.co/MCFH49aJ "ClickTale, The leader in Heatmaps, Usability  & Web Analytic"
-http://t.co/0sq5hfQ2 "Hooking Android up to the (Selenium) Grid | Blargon7"
-http://t.co/FtDxFVAw "Memorize the Concepts Not the APIs - Programming ≈ Fun"
-http://t.co/IctBBQHp "404www.google.hr/url"
-http://t.co/E6wAFTHV "403www.dzone.com/links/r/python_vs_ruby_maintainability.html"
-http://t.co/Jf8HbQmG "What Exploratory Testing Is Not (Part 2): After-Everything-Else Testing &laquo;  Developsense Blog"
-http://t.co/NvnbVsgJ "James Bach’s Blog  &raquo; Blog Archive   &raquo; Why Scripted Testing is Not for Novices"
-http://t.co/d53Bt1wj "Richard St. John&#039;s 8 secrets of success | Video on TED.com"
-http://t.co/rOjBYNeE "How Short Can A Very Short Story Be? : Krulwich Wonders... : NPR"
-http://mavericktester.com/archive/speed-kills "speed-kills"
-http://t.co/ckDRBdqo "A geek with a hat &raquo; Why programmers work at night"
-http://t.co/wdBmXfpS "What Exploratory Testing Is Not (Part 3):  Tool-Free Testing &laquo;  Developsense Blog"
-http://t.co/VgrJiDh0 "About Working Memory and Testing &laquo; Anders Dinsen on software testing and development"
-http://t.co/YUJKpwKL "Writers Need to Understand Version Control | Swaine’s World"
-http://t.co/GN74PUpj "Hiccupps: The Ass in the Assumptions"
-http://t.co/1EgZseeN "Rethinking Regression, Part 4: What’s Wrong with Regression Testing? | Exploring Uncertainty"
-http://t.co/Pr4lewK8 "Mobile Web performance challenges and strategies - The official Google Code blog"
-http://t.co/EhaErxro "What Exploratory Testing Is Not (Part 4):  Quick Tests &laquo;  Developsense Blog"
-http://t.co/984KWqmH "Stop being a NON-Technical Tester! | QA Intelligence - a QABlog"
-http://t.co/vJTspQl2 "403www.dzone.com/links/the_two_agile_programming_metrics_that_matter_most.html"
-http://t.co/iaRR9JYp "403www.dzone.com/links/understanding_the_factory_method_design_pattern.html"
-http://t.co/ghoMuGbq "Up on the Roof Top… Click, Click, Click - Web Performance Watch"
-http://t.co/Z7eNX6rA "  How to manage the performance of 1000+ JVMs Application Performance, Scalability and Architecture – The dynaTrace Blog"
-http://t.co/RmEoQFl7 "Abakas: Dependency and Redundancy"
-http://t.co/kZvg31zV "Unicorn Testing | Exploring Uncertainty"
-http://t.co/YoLZrJhQ "Inventive Ways to Control Trolls – Lone Gunman"
-http://t.co/eSly7xF7 "403www.dzone.com/links/automate_configuration_management_using_tokens.html"
-http://t.co/jjydeAkd "Worthwhile Documentation &laquo;  Developsense Blog"
-http://t.co/bsclLGJn "Workroom Productions: Known ways of managing ET #02 - Bug Bash"
-http://t.co/I21Cx98d "403www.dzone.com/links/why_dont_they_implement_python_and_ruby_on_the_we.html"
-http://t.co/5xSuMhSP "Trials and Errors: Why Science Is Failing Us | Wired Magazine | Wired.com"
-http://t.co/nFOOlqXK "When Bubbles Get Comfortable : Krulwich Wonders... : NPR"
-http://t.co/PnTtqKxT "403www.dzone.com/links/r/algorithm_of_the_week_jump_search.html"
-http://t.co/6sJQtibI "  The Difference Between Usability and User Experience &raquo; UIE Brain Sparks"
-http://t.co/ldc7IyW1 "403www.dzone.com/links/7_habits_i_learned_to_become_more_efficient_progr.html"
-http://t.co/Cdq76T4w "Abakas: Selective Vacation"
-http://t.co/jSjuwpym "403www.dzone.com/links/how_to_write_efficient_unit_tests_5_principles_fo.html"
-http://t.co/aAx78qLZ "007 Unlicensed to Test"
-http://t.co/awt6Jche "403www.dzone.com/links/keep_your_workbench_clean_code_quality_the_profes.html"
-http://t.co/q0pb5pL6 "TESTHEAD: The Cult of SET?!"
-http://t.co/ppDIB6D0 "What Exploratory Testing Is Not (Part 5):  Undocumented Testing &laquo;  Developsense Blog"
-http://t.co/fPQr0DFn "Software Testing Services: When to do Manual Testing and when to Automated Testing"
-http://t.co/HTvdzWxc "403www.fredberinger.com/what-apps-are-in-every-developer-toolkit/"
-http://t.co/tJoT4rVd "403www.dzone.com/links/unfortunate_python.html"
-http://t.co/LsGCFnLn "The 12 Bugs of Xmas | Software Testing Blog"
-http://t.co/zE1nvhoe "  The Best Data Visualization Projects of 2011"
-http://t.co/sGDvtUbK "Writing Maintainable Automated Acceptance Tests."
-http://t.co/Trc41tWS "302youtu.be/tveicPkG6yc"
-http://t.co/6lwfcOCa "403www.dzone.com/links/diving_deeper_into_the_laptop_overheating_problem.html"
-http://t.co/JjFJGbrb "Scripts or No Scripts, Managers Might Have to Manage &laquo;  Developsense Blog"
-http://t.co/CEWv131E "James Bach’s Blog  &raquo; Blog Archive   &raquo; What Exploratory Testing is Not"
-http://t.co/eg6xiLtA "Let's Weigh The Internet (Or Maybe Let's Not) : Krulwich Wonders... : NPR"
-http://t.co/OwOMmvz9 "Douglas Crockford | JavaScript & Metaperformance"
-http://t.co/FYiSbZlK "302testinggeek.com/its-defect-spe"
-http://t.co/CakG6RPH "   Agile Testing: The Book at Željko Filipin&#039;s Blog on Software and Testing"
-http://t.co/KFsvxfVw "FrazzledDad: 31 Days of Testing—Day 19: Refactoring a “Monster” Functional Test, Part 1"
-http://t.co/sYZ7MgJ7 "The Number One Trait of a Great Developer | Engine Yard Blog"
-http://t.co/RvCl8QET "Refactoring exercise - Programming ≈ Fun"
-http://t.co/INdlI5Vh "Adam Goucher  "
-http://t.co/IvcovXWT "403www.dzone.com/links/russian_programmers_are_among_the_best.html"
-http://t.co/b7ykumgu "What A Good (If Slightly Weird) Boy Wants For Christmas : Krulwich Wonders... : NPR"
-http://t.co/GzrDJx5k "404www.youtube.com/watch"
-http://t.co/tQgsP09B "403www.dzone.com/links/how_to_check_your_web_app_for_security_vulnerabil.html"
-http://t.co/7SgdVwgg "403www.dzone.com/links/everything_i_ever_learned_about_jvm_performance_t_2.html"
-http://t.co/oqDZ98h4 "403www.dzone.com/links/mobile_web_apps_versus_native_apps_which_is_better.html"
-http://t.co/DRMp7DVF "403www.dzone.com/links/groovy_the_python_of_java.html"
-http://t.co/1BUiKZ0z "The Tester&#8217;s Job &laquo; Testastic"
-http://t.co/vrVV5pJ1 "#AltDevBlogADay &raquo; Static Code Analysis"
-http://t.co/FH4kyJ2n "REDbot: Awesome HTTP Testing | Zoompf"
-http://t.co/9U5pImZz "500SachaGreif.com"
-http://t.co/cmmuA9u9 "Tools of the Trade | SachaGreif.com"
-http://t.co/UgMB6UnK "The Future Of Software Testing Part One &#8211; Testing In Production  |  The Testing Planet - a software testing publication &amp; magazine"
-http://t.co/p8WuTKlY "302youtu.be/tveicPkG6yc"
-http://t.co/FFngCMKI "Peak Performance"
-http://t.co/qGoxPfBX "403www.dzone.com/links/10_reasons_to_avoid_test_driven_development.html"
-http://t.co/alD5BPN6 "403www.dzone.com/links/java_code_and_explanation_on_heapsort_array_based.html"
-http://t.co/gnwYKehH "Official Android Market host many Malware Games | The Hacker News (THN)"
-http://t.co/aBOH1szv "Exploring Uncertainty | A Software Testing Blog"
-http://t.co/laghvui9 "Chris Chartier"
-http://t.co/joIKqkrm "Rhythm heuristic testing, Where music and testing join forces &laquo; Agile experience of an Tester and Scrum Master"
-http://t.co/Adf1kzwv " Software Test Podcast "
-http://t.co/TyZe7lN5 "404www.psychiatric-times.com/masturbation-may-prevent-psychiatric-disorders-study-suggests/"
-http://t.co/dHhLgHpr "ILRT python / A potted history of web development paradigms"
-http://t.co/XDlY9k7u "I Would Love to See This in Ruby - Programming ≈ Fun"
-http://t.co/b0HcCoTK "CEO/Founder s GoHomeovim Draženom Drnasom: Što učiniti kad vam propadne investitor i tržište? &mdash;  Netokracija"
-http://t.co/Rw03GIWK "KidsRuby Teaches Your Children How to Program"
-http://t.co/ko2TmeH8 "403www.dzone.com/links/r/algorithm_of_the_week_binary_search.html"
-http://t.co/QBxm2hIL "Seven Ways to Make Testing Irrelevant on Your Team | Testing"
-http://t.co/pwJVJXzI "404video.google.com/videoplay"
-http://t.co/3FgsQ301 "Why Checking Is Not Enough &laquo;  Developsense Blog"
-http://t.co/bq1IqybO "Freakonomics Quorum: The Economics of Street Charity"
-http://t.co/pEkyza5G "Cockpit Confidential: Debunking the Autopilot Myt"
-http://t.co/5NqXIxaj "Learning for the Long Haul, Part 1: Onboarding | Exploring Uncertainty"
-http://t.co/OCtqKWdk "403www.dzone.com/links/why_c_is_obsolete.html"
-http://t.co/gxXlx5i0 "302yongfook.com/post/14882595514/accidental-entrepreneurs-dont-exist"
-http://t.co/7nOcPw1h "Enjoy testing: Four Quick Questions While Testing"
-http://t.co/qfvcLNes "403www.dzone.com/links/significant_software_development_developments_of_3.html"
-http://t.co/RnOpZxu3 "403www.dzone.com/links/r/simplify_and_unixify_the_html5_filesystem_api_wit.html"
-http://t.co/1Q6cjidr "The Three Amigos | Project Management"
-http://t.co/ErnwVye7 "Wi-Fi 'protected set-up' not so protected after all | Signal Strength - CNET News"
-http://t.co/Sxjd51K1 "How Star Trek artists imagined the iPad... 23 years ago"
-http://t.co/nzYoEa7A "Exploring Uncertainty | A Software Testing Blog"
-http://t.co/jSshwerM "Babies 0: Bathwater 1 | Exploring Uncertainty"
-http://t.co/Zaq9CwRx "http://www.rgoarchitects.com/Files/fallacies.pdf"
-http://t.co/OVfwbQPv "Adam Goucher  "
-http://t.co/pUN6klsW "Great by Choice: the surprising lessons of how tech startups succeed over the long term | The Art of Ass-Kicking"
-http://t.co/iY17YGQ6 "403www.dzone.com/links/top_10_underhyped_web_apps_2011_edition.html"
-http://t.co/fcEEcbQe "403www.dzone.com/links/observer_pattern_in_java_with_real_world_example.html"
-http://t.co/1IqvxMC6 "403www.dzone.com/links/11_things_every_software_developer_should_be_doin.html"
-http://t.co/YY8CGDQX "403www.dzone.com/links/do_you_really_need_a_guid_in_your_database_design.html"
-http://t.co/azevqHFp "Kanal korisnika AgileAcademyAu"
-http://t.co/KTgWCVDv "  BBST: Something to Brag About - Automation Beyond"
-http://t.co/nnvsk904 "403www.dzone.com/links/why_clean_code_is_more_important_than_efficient_c_2.html"
-http://t.co/YXW7i28K "403www.dzone.com/links/modeling_is_the_next_generation_of_programming_la.html"
-http://t.co/pi7mKpgg "Tester Crew - Regression Test Plan Calculator"
-http://t.co/zkjn1TB9 "302youtu.be/xcYswvWF20M"
-http://t.co/fypnwLOa "403www.dzone.com/links/practical_garbage_collection_part_1_introduction.html"
-http://t.co/ZrPH3R3s "My New Year's Is 62 Million Times Bigger Than Yours, Said The Man From Beijing : Krulwich Wonders... : NPR"
-http://t.co/r4r48VYh "The Complete Rules For Games | Rock, Paper, Shotgun"
-http://t.co/vkNhyjcv "Maverick Tester - Independently minded"
-http://t.co/iGH5Pq2C "Speed date your way to better quality &laquo; Testastic"
-http://t.co/Fjed43nT "403www.dzone.com/links/improve_software_quality_with_tools_and_processes.html"
-http://t.co/o9HfpiZv "Better Testing | Insights, thoughts &amp; ideas"
-http://t.co/wj0PWsYe "403www.dzone.com/links/top_10_developer_and_engineering_skills_employers_2.html"
-http://t.co/DfWLUA7Q "403www.dzone.com/links/preventative_medicine_for_memory_leaks_in_java.html"
+http://t.co/RBzNZXuB___403www.dzone.com/links/rise_of_the_popped_collar_programmer.html___
+http://t.co/u1MHFgKw___403www.dzone.com/links/r/iterationless_development_the_latest_new_new_thing.html___
+http://t.co/ADWlItMa___All Things Quality: Top 5 Books About Testing and Quality Assurance___
+http://t.co/mKvlgSUk___Adam Goucher  ___
+http://t.co/0NdLwZ0i___http://www.chillarege.com/authwork/papers1990s/TestingBestPractice.pdf___
+http://t.co/aEfzz7oq___The Psychology of Nakedness | Wired Science | Wired.com___
+http://t.co/NvhUysR6___High School Teaches Students a Different Kind of Testing &#8211; App Testing | Software Testing Blog___
+http://t.co/2oSWS78T___The Library Phantom Returns! : Krulwich Wonders... : NPR___
+http://t.co/ed01USe8___301community.rapid7.com/community/metasploit/blog/2011/11/30/test-results-for-javarhino___
+http://t.co/jIPO3MmS___Peak Performance___
+http://t.co/WxcCV4jW___From the mailbox: selecting test automation tools  |  Test Obsessed___
+http://t.co/tpPvqBu1___Under Test - The Social Tester___
+http://t.co/xLdf3jnb___http://watirmelon.files.wordpress.com/2011/05/specificationbyexamplealovestory1.pdf___
+http://t.co/lkYf9o5T___Hey Twitter: Give us our Tweets___
+http://t.co/D8Ka2sp7___Using Storyboards and Sentiment Charts to Quantify Customer Experience :: UXmatters___
+http://t.co/lPyJxRz4___Do Nice Guys Finish Last? | Wired Science | Wired.com___
+http://watirmelon.com/2011/12/03/a-tale-of-three-ruby-automated-testing-apis-redux/___A HUGEly funny spelling mistake | WatirMelon___
+http://t.co/Pdw9a0JD___Apprentice Andreas: ___Models" at Agile Testing Days 2011"
+http://t.co/ikbXVcsQ___404www.youtube.com/watch___
+http://t.co/993Y7HWA___Testing is some value to someone who matters | Arborosa___
+http://t.co/ZS8SUcRM___10 reasons why You are NOT a Professional Tester!  &#8212; Part 2 | QA Intelligence - a QABlog___
+http://t.co/8R5eCVUP___Tester Tested !: Truth about test plan document & test case document___
+http://t.co/BPjves82___TCLGroupLimited___
+http://t.co/306GXf6N___Shapes of Actions &laquo;  Developsense Blog___
+http://t.co/T4h0gPH3___The Best Hike On Mars You'll Ever Take : Krulwich Wonders... : NPR___
+http://t.co/9vWrPnpc___403www.dzone.com/links/south_park_in_css3_or_interpreting_cartmancss.html___
+http://t.co/BAKiCHia___Software Testing - a Sisyphean Task?: Recruitment By Example___
+http://t.co/n1J7DlsT___403www.dzone.com/links/the_mature_programmer.html___
+http://t.co/dFC4zuNy___403www.dzone.com/links/r/algorithm_of_the_week_linear_search_in_sorted_lis.html___
+http://t.co/VbRWr1CQ___302www.nytimes.com/glogin___
+http://t.co/7g8FLQFi___Exploring Uncertainty | A Software Testing Blog___
+http://t.co/slN8bGSG___ The Jimmy Buffett Life - Unchartered Waters___
+http://t.co/ElzZsgPK___Why Sugar Makes Us Sleepy (And Protein Wakes Us Up) | Wired Science | Wired.com___
+http://t.co/48VgR2dr___302summify.com/ISQTInternational/2011/12/07/1/___
+http://t.co/NjFeuZhn___Excuses for testers when bugs are caught in later testing cycles/UAT/Production___
+http://t.co/cf9x4Jrt___302feedly.com/k/rBjTlH___
+http://t.co/I8WSfFUy___Where to start? | Student of Live, The Universe and Everything___
+http://t.co/eHKCzg5b___403www.dzone.com/links/test_a_complete_failure_of_the_jvm.html___
+http://t.co/YQJ1jLUX___Study Finds Getting Smacked Right In The Mouth With A Goddamn Tree Branch Really Sucks | The Onion - America's Finest News Source___
+http://t.co/mZiD2fGk___Testing Techniques - Not Writing Tests - Java Code Geeks___
+http://t.co/7ndhOvnz___The Misuse of End To End Tests - Testing Techniques 2 - Java Code Geeks___
+http://t.co/Ge34jQCH___The Ellis Island Bug &laquo;  Developsense Blog___
+http://t.co/LuuXbFTd___Vowels Control Your Brain : Krulwich Wonders... : NPR___
+http://t.co/V10CeDnI___403www.dzone.com/links/writing_reflective_unit_tests_to_improve_code_qua.html___
+http://t.co/FFngCMKI___Peak Performance___
+http://t.co/hTCltPey___What Should you Unit Test? - Testing Techniques 3 - Java Code Geeks___
+http://t.co/Dkn0H0Px___James Bach’s Blog  &raquo; Blog Archive   &raquo; Exploratory Testing is not &#8220;Experienced-Based&#8221; Testing___
+http://t.co/zUIK52av___Agile people still don&#039;t get it &laquo;  Otaku, Cedric&#039;s blog___
+http://t.co/fodSqB7N___403www.dzone.com/links/what_demotivates_me_the_most_as_a_developer.html___
+http://t.co/iv5muFVv___403www.dzone.com/links/three_simple_ways_to_improve_the_security_of_your.html___
+http://t.co/QACNZCEk___Želite li da vam internetski projekt uspije, svoje (zaljubljene) korisnike morate (is)koristiti &mdash;  Netokracija___
+http://t.co/TVwJxYbF___403www.dzone.com/links/querying_the_memory_usage_of_a_java_object.html___
+http://t.co/1LmnaYP5___403www.dzone.com/links/quality_is_overrated.html___
+http://t.co/vSszFKTz___403www.dzone.com/links/free_tools_to_test_your_website_on_mobile_devices.html___
+http://t.co/JSfy4Cz8___<head><meta http-equiv=___refresh" content="0;url=http://www.shino.de/2011/12/11/test-levels-in-agile-testing/"></head><body></body></html"
+http://t.co/phRT0CYP___All-Purpose Quality Status Report | thoughts from the test eye___
+http://t.co/Xe0y5PoH___403www.dzone.com/links/r/my_testing_and_code_analysis_toolbox.html___
+http://t.co/RrYiNCsM___Pipedrive CRM – sales pipeline management software___
+http://t.co/WTIOb0yh___403www.dzone.com/links/r/tdd_vs_bdd_or_why_cant_we_all_just_get_along.html___
+http://t.co/elvquR8P___The Pragmatic Bookshelf | PragPub 2011-10 | Lightsabers, Time Machines, &amp;amp; Other Automation Heuristics___
+http://t.co/5GSdM3Bc___Lebsontech LLC: DC Usability Blog___
+http://t.co/WXzu6s06___What Do You Want From Tests? - Conversations with Dale___
+http://t.co/MYwAkdFp___Women Should Do Startups___
+http://t.co/FeIoWkTB___Regular Unit Tests and Stubs - Testing Techniques 4 - Java Code Geeks___
+http://t.co/DZj0R9bc___Why do people defend unjust, inept, and corrupt systems?___
+http://t.co/E8Y79h2J___403www.dzone.com/links/deadlock_in_java.html___
+http://t.co/V5MA2xIp___When Reinforcement Fails | Wired Science | Wired.com___
+http://t.co/35O0QDec___Scary Geology: Mountains In Motion : Krulwich Wonders... : NPR___
+http://www.tldp.org/LDP/abs/html/___bash programming___
+http://t.co/icy1yXTH___403www.dzone.com/links/software_diagrammers_vs_software_architects.html___
+http://t.co/0BHSZkfP___Marlena&#8217;s Blog &laquo; Testing and Coding&#8230;Concurrently___
+http://t.co/YLSZFm1D___403www.dzone.com/links/automated_frontend_testing_for_the_lazy_with_fire.html___
+http://t.co/Wb1N2F5G___Understanding Carrier IQ: The Most Detailed Explanation So Far___
+http://t.co/hAQD7SsE___Unit Testing Using Mocks - Testing Techniques 5 - Java Code Geeks___
+http://t.co/NCv3eT21___The user feedback problem &laquo; blog.iterate.no___
+http://t.co/yKFdHgIa___Exploratory Testing with Interactive Ruby &laquo; Software Quality Assurance and Test___
+http://t.co/tQBAv9zk___403www.dzone.com/links/the_truth_about_android_ios_ui_performance.html___
+http://t.co/vir6hEtA___Why the Postal Service Is Going Out of Business - Forbes___
+http://t.co/A7m5Z7CX___Study Hacks  &raquo; Blog Archive   &raquo; If You&#8217;re Busy, You&#8217;re Doing Something Wrong: The Surprisingly Relaxed Lives of Elite Achievers___
+http://t.co/4iW2iSI6___Element 34 - A refactoring writeup___
+http://t.co/4vtxuO6V___How Does the Brain Perceive Art? | Wired Science | Wired.com___
+http://t.co/VR1NVJl7___Of Bosons And Disappearing Spoons : Krulwich Wonders... : NPR___
+http://t.co/tRzeDRB0___Kad odrasli 'cendraju' - MojPosao.net___
+http://t.co/qg6o6eWQ___Gerald Weinberg's Secrets of Writing and Consulting: Change Artist Challenge #10: Learning from History___
+http://t.co/xmMuZ6PT___What Exploratory Testing Is Not (Part 1):  Touring &laquo;  Developsense Blog___
+http://t.co/5K86udc1___pr_121511a.html___
+http://t.co/WoeN7ilr___What&#8217;s Working in Marketing    &raquo; What Eye Tracking Studies Reveal About Gen Y and Web Sites &raquo; Telesian.com___
+http://t.co/MCFH49aJ___ClickTale, The leader in Heatmaps, Usability  & Web Analytic___
+http://t.co/0sq5hfQ2___Hooking Android up to the (Selenium) Grid | Blargon7___
+http://t.co/FtDxFVAw___Memorize the Concepts Not the APIs - Programming ≈ Fun___
+http://t.co/IctBBQHp___404www.google.hr/url___
+http://t.co/E6wAFTHV___403www.dzone.com/links/r/python_vs_ruby_maintainability.html___
+http://t.co/Jf8HbQmG___What Exploratory Testing Is Not (Part 2): After-Everything-Else Testing &laquo;  Developsense Blog___
+http://t.co/NvnbVsgJ___James Bach’s Blog  &raquo; Blog Archive   &raquo; Why Scripted Testing is Not for Novices___
+http://t.co/d53Bt1wj___Richard St. John&#039;s 8 secrets of success | Video on TED.com___
+http://t.co/rOjBYNeE___How Short Can A Very Short Story Be? : Krulwich Wonders... : NPR___
+http://mavericktester.com/archive/speed-kills___speed-kills___
+http://t.co/ckDRBdqo___A geek with a hat &raquo; Why programmers work at night___
+http://t.co/wdBmXfpS___What Exploratory Testing Is Not (Part 3):  Tool-Free Testing &laquo;  Developsense Blog___
+http://t.co/VgrJiDh0___About Working Memory and Testing &laquo; Anders Dinsen on software testing and development___
+http://t.co/YUJKpwKL___Writers Need to Understand Version Control | Swaine’s World___
+http://t.co/GN74PUpj___Hiccupps: The Ass in the Assumptions___
+http://t.co/1EgZseeN___Rethinking Regression, Part 4: What’s Wrong with Regression Testing? | Exploring Uncertainty___
+http://t.co/Pr4lewK8___Mobile Web performance challenges and strategies - The official Google Code blog___
+http://t.co/EhaErxro___What Exploratory Testing Is Not (Part 4):  Quick Tests &laquo;  Developsense Blog___
+http://t.co/984KWqmH___Stop being a NON-Technical Tester! | QA Intelligence - a QABlog___
+http://t.co/vJTspQl2___403www.dzone.com/links/the_two_agile_programming_metrics_that_matter_most.html___
+http://t.co/iaRR9JYp___403www.dzone.com/links/understanding_the_factory_method_design_pattern.html___
+http://t.co/ghoMuGbq___Up on the Roof Top… Click, Click, Click - Web Performance Watch___
+http://t.co/Z7eNX6rA___  How to manage the performance of 1000+ JVMs Application Performance, Scalability and Architecture – The dynaTrace Blog___
+http://t.co/RmEoQFl7___Abakas: Dependency and Redundancy___
+http://t.co/kZvg31zV___Unicorn Testing | Exploring Uncertainty___
+http://t.co/YoLZrJhQ___Inventive Ways to Control Trolls – Lone Gunman___
+http://t.co/eSly7xF7___403www.dzone.com/links/automate_configuration_management_using_tokens.html___
+http://t.co/jjydeAkd___Worthwhile Documentation &laquo;  Developsense Blog___
+http://t.co/bsclLGJn___Workroom Productions: Known ways of managing ET #02 - Bug Bash___
+http://t.co/I21Cx98d___403www.dzone.com/links/why_dont_they_implement_python_and_ruby_on_the_we.html___
+http://t.co/5xSuMhSP___Trials and Errors: Why Science Is Failing Us | Wired Magazine | Wired.com___
+http://t.co/nFOOlqXK___When Bubbles Get Comfortable : Krulwich Wonders... : NPR___
+http://t.co/PnTtqKxT___403www.dzone.com/links/r/algorithm_of_the_week_jump_search.html___
+http://t.co/6sJQtibI___  The Difference Between Usability and User Experience &raquo; UIE Brain Sparks___
+http://t.co/ldc7IyW1___403www.dzone.com/links/7_habits_i_learned_to_become_more_efficient_progr.html___
+http://t.co/Cdq76T4w___Abakas: Selective Vacation___
+http://t.co/jSjuwpym___403www.dzone.com/links/how_to_write_efficient_unit_tests_5_principles_fo.html___
+http://t.co/aAx78qLZ___007 Unlicensed to Test___
+http://t.co/awt6Jche___403www.dzone.com/links/keep_your_workbench_clean_code_quality_the_profes.html___
+http://t.co/q0pb5pL6___TESTHEAD: The Cult of SET?!___
+http://t.co/ppDIB6D0___What Exploratory Testing Is Not (Part 5):  Undocumented Testing &laquo;  Developsense Blog___
+http://t.co/fPQr0DFn___Software Testing Services: When to do Manual Testing and when to Automated Testing___
+http://t.co/HTvdzWxc___403www.fredberinger.com/what-apps-are-in-every-developer-toolkit/___
+http://t.co/tJoT4rVd___403www.dzone.com/links/unfortunate_python.html___
+http://t.co/LsGCFnLn___The 12 Bugs of Xmas | Software Testing Blog___
+http://t.co/zE1nvhoe___  The Best Data Visualization Projects of 2011___
+http://t.co/sGDvtUbK___Writing Maintainable Automated Acceptance Tests.___
+http://t.co/Trc41tWS___302youtu.be/tveicPkG6yc___
+http://t.co/6lwfcOCa___403www.dzone.com/links/diving_deeper_into_the_laptop_overheating_problem.html___
+http://t.co/JjFJGbrb___Scripts or No Scripts, Managers Might Have to Manage &laquo;  Developsense Blog___
+http://t.co/CEWv131E___James Bach’s Blog  &raquo; Blog Archive   &raquo; What Exploratory Testing is Not___
+http://t.co/eg6xiLtA___Let's Weigh The Internet (Or Maybe Let's Not) : Krulwich Wonders... : NPR___
+http://t.co/OwOMmvz9___Douglas Crockford | JavaScript & Metaperformance___
+http://t.co/FYiSbZlK___302testinggeek.com/its-defect-spe___
+http://t.co/CakG6RPH___   Agile Testing: The Book at Željko Filipin&#039;s Blog on Software and Testing___
+http://t.co/KFsvxfVw___FrazzledDad: 31 Days of Testing—Day 19: Refactoring a “Monster” Functional Test, Part 1___
+http://t.co/sYZ7MgJ7___The Number One Trait of a Great Developer | Engine Yard Blog___
+http://t.co/RvCl8QET___Refactoring exercise - Programming ≈ Fun___
+http://t.co/INdlI5Vh___Adam Goucher  ___
+http://t.co/IvcovXWT___403www.dzone.com/links/russian_programmers_are_among_the_best.html___
+http://t.co/b7ykumgu___What A Good (If Slightly Weird) Boy Wants For Christmas : Krulwich Wonders... : NPR___
+http://t.co/GzrDJx5k___404www.youtube.com/watch___
+http://t.co/tQgsP09B___403www.dzone.com/links/how_to_check_your_web_app_for_security_vulnerabil.html___
+http://t.co/7SgdVwgg___403www.dzone.com/links/everything_i_ever_learned_about_jvm_performance_t_2.html___
+http://t.co/oqDZ98h4___403www.dzone.com/links/mobile_web_apps_versus_native_apps_which_is_better.html___
+http://t.co/DRMp7DVF___403www.dzone.com/links/groovy_the_python_of_java.html___
+http://t.co/1BUiKZ0z___The Tester&#8217;s Job &laquo; Testastic___
+http://t.co/vrVV5pJ1___#AltDevBlogADay &raquo; Static Code Analysis___
+http://t.co/FH4kyJ2n___REDbot: Awesome HTTP Testing | Zoompf___
+http://t.co/9U5pImZz___500SachaGreif.com___
+http://t.co/cmmuA9u9___Tools of the Trade | SachaGreif.com___
+http://t.co/UgMB6UnK___The Future Of Software Testing Part One &#8211; Testing In Production  |  The Testing Planet - a software testing publication &amp; magazine___
+http://t.co/p8WuTKlY___302youtu.be/tveicPkG6yc___
+http://t.co/FFngCMKI___Peak Performance___
+http://t.co/qGoxPfBX___403www.dzone.com/links/10_reasons_to_avoid_test_driven_development.html___
+http://t.co/alD5BPN6___403www.dzone.com/links/java_code_and_explanation_on_heapsort_array_based.html___
+http://t.co/gnwYKehH___Official Android Market host many Malware Games | The Hacker News (THN)___
+http://t.co/aBOH1szv___Exploring Uncertainty | A Software Testing Blog___
+http://t.co/laghvui9___Chris Chartier___
+http://t.co/joIKqkrm___Rhythm heuristic testing, Where music and testing join forces &laquo; Agile experience of an Tester and Scrum Master___
+http://t.co/Adf1kzwv___ Software Test Podcast ___
+http://t.co/TyZe7lN5___404www.psychiatric-times.com/masturbation-may-prevent-psychiatric-disorders-study-suggests/___
+http://t.co/dHhLgHpr___ILRT python / A potted history of web development paradigms___
+http://t.co/XDlY9k7u___I Would Love to See This in Ruby - Programming ≈ Fun___
+http://t.co/b0HcCoTK___CEO/Founder s GoHomeovim Draženom Drnasom: Što učiniti kad vam propadne investitor i tržište? &mdash;  Netokracija___
+http://t.co/Rw03GIWK___KidsRuby Teaches Your Children How to Program___
+http://t.co/ko2TmeH8___403www.dzone.com/links/r/algorithm_of_the_week_binary_search.html___
+http://t.co/QBxm2hIL___Seven Ways to Make Testing Irrelevant on Your Team | Testing___
+http://t.co/pwJVJXzI___404video.google.com/videoplay___
+http://t.co/3FgsQ301___Why Checking Is Not Enough &laquo;  Developsense Blog___
+http://t.co/bq1IqybO___Freakonomics Quorum: The Economics of Street Charity___
+http://t.co/pEkyza5G___Cockpit Confidential: Debunking the Autopilot Myt___
+http://t.co/5NqXIxaj___Learning for the Long Haul, Part 1: Onboarding | Exploring Uncertainty___
+http://t.co/OCtqKWdk___403www.dzone.com/links/why_c_is_obsolete.html___
+http://t.co/gxXlx5i0___302yongfook.com/post/14882595514/accidental-entrepreneurs-dont-exist___
+http://t.co/7nOcPw1h___Enjoy testing: Four Quick Questions While Testing___
+http://t.co/qfvcLNes___403www.dzone.com/links/significant_software_development_developments_of_3.html___
+http://t.co/RnOpZxu3___403www.dzone.com/links/r/simplify_and_unixify_the_html5_filesystem_api_wit.html___
+http://t.co/1Q6cjidr___The Three Amigos | Project Management___
+http://t.co/ErnwVye7___Wi-Fi 'protected set-up' not so protected after all | Signal Strength - CNET News___
+http://t.co/Sxjd51K1___How Star Trek artists imagined the iPad... 23 years ago___
+http://t.co/nzYoEa7A___Exploring Uncertainty | A Software Testing Blog___
+http://t.co/jSshwerM___Babies 0: Bathwater 1 | Exploring Uncertainty___
+http://t.co/Zaq9CwRx___http://www.rgoarchitects.com/Files/fallacies.pdf___
+http://t.co/OVfwbQPv___Adam Goucher  ___
+http://t.co/pUN6klsW___Great by Choice: the surprising lessons of how tech startups succeed over the long term | The Art of Ass-Kicking___
+http://t.co/iY17YGQ6___403www.dzone.com/links/top_10_underhyped_web_apps_2011_edition.html___
+http://t.co/fcEEcbQe___403www.dzone.com/links/observer_pattern_in_java_with_real_world_example.html___
+http://t.co/1IqvxMC6___403www.dzone.com/links/11_things_every_software_developer_should_be_doin.html___
+http://t.co/YY8CGDQX___403www.dzone.com/links/do_you_really_need_a_guid_in_your_database_design.html___
+http://t.co/azevqHFp___Kanal korisnika AgileAcademyAu___
+http://t.co/KTgWCVDv___  BBST: Something to Brag About - Automation Beyond___
+http://t.co/nnvsk904___403www.dzone.com/links/why_clean_code_is_more_important_than_efficient_c_2.html___
+http://t.co/YXW7i28K___403www.dzone.com/links/modeling_is_the_next_generation_of_programming_la.html___
+http://t.co/pi7mKpgg___Tester Crew - Regression Test Plan Calculator___
+http://t.co/zkjn1TB9___302youtu.be/xcYswvWF20M___
+http://t.co/fypnwLOa___403www.dzone.com/links/practical_garbage_collection_part_1_introduction.html___
+http://t.co/ZrPH3R3s___My New Year's Is 62 Million Times Bigger Than Yours, Said The Man From Beijing : Krulwich Wonders... : NPR___
+http://t.co/r4r48VYh___The Complete Rules For Games | Rock, Paper, Shotgun___
+http://t.co/vkNhyjcv___Maverick Tester - Independently minded___
+http://t.co/iGH5Pq2C___Speed date your way to better quality &laquo; Testastic___
+http://t.co/Fjed43nT___403www.dzone.com/links/improve_software_quality_with_tools_and_processes.html___
+http://t.co/o9HfpiZv___Better Testing | Insights, thoughts &amp; ideas___
+http://t.co/wj0PWsYe___403www.dzone.com/links/top_10_developer_and_engineering_skills_employers_2.html___
+http://t.co/DfWLUA7Q___403www.dzone.com/links/preventative_medicine_for_memory_leaks_in_java.html___
