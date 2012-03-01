@@ -31,7 +31,7 @@ def parseFileWithLinks(fileWithLinks):
     LINK = 0
     diigoList = []
     for item in fileWithLinks:
-        itemAsList = item[:-1].split('___')
+        itemAsList = item[:-4].split('___')
         printDiigoTags() 
         choice = raw_input('Choose diigo tag for link '+itemAsList[LINK]+\
                            ' with description '+itemAsList[LINK_NAME]+':')

@@ -1,211 +1,107 @@
 http://t.co/SNL0VrW___Woodchucks and Test Estimation |  Unimagined Testing___testing
-http://ht.ly/5Yyhe___What do you do when a ShowStopper escapes into production? | QA Intelligence - a QABlog___
-___testing
-http://dzone.com/cWQT___403www.dzone.com/links/beginner_programming_mistakes.html___
-___programming
-http://bit.ly/qqibxK___Element 34 - Death to visible content as locators in automated tests___
-___testing
-http://bit.ly/etagilepdf___http://testobsessed.com/wp-content/uploads/2011/08/ETinAgile-agile2011-final.pdf___
-___testing
-http://n.pr/q7O5Sb___This Can't Be Happening : Krulwich Wonders... : NPR___
-___brain
-http://t.co/AlzHKvi___investigating software: Is your test automation actually agile? A Guardian Content API example.___
-___testing
-http://dzone.com/Pym9___403www.dzone.com/links/the_demise_of_the_low_level_programmer.html___
-___programming
-http://bit.ly/oMVp0N___James Bach’s Blog  &raquo; Blog Archive   &raquo; Quality is Dead #1: The Hypothesis___
-___testing
-http://bit.ly/oNjCCg___Selena Delesie on Exploratory Test Chartering &laquo;  Developsense Blog___
-___testing
-http://bit.ly/98UUdM___Testers:  Get Out of the Quality Assurance Business &laquo;  Developsense Blog___
-___testing
-http://bit.ly/qfVpN4___Qualitative Measures___
-___testing
-http://ow.ly/5ZbOC___404mavericktester.com/coaching-space___
-___testing
-http://zd.net/qaYr4M______Characteristics of a Troubled Project" | ZDNet "
-___business
-http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://dzone.com/vo38___403www.dzone.com/links/how_to_level_up_as_a_developer.html___
-___programming
-http://bit.ly/nlYRM4___Spoilers Don&#039;t Spoil Anything | Wired Science | Wired.com___
-___science
-http://slidesha.re/qlTZUH___Continuous Integration, the minimum viable product___
-___testing
-http://p.ost.im/p/edKw4D___Continuous Integration, the minimum viable product___
-___testing
-http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://dzone.com/L8Rg___403www.dzone.com/links/what_bruce_lee_can_teach_us_about_design_patterns.html___
-___programming
-http://goo.gl/fb/d2hFG___Tester Tested !: How Pradeep teaches software testing - Part 2___
-___testing
-http://bit.ly/oNavuj___The &quot;Invent with Python&quot; Blog  &mdash; Recursion Explained with the Flood Fill Algorithm (and Zombies and Cats)___
-___programming
-http://dzone.com/9f4I___403www.dzone.com/links/good_unit_test_checklist.html___
-___testing
-http://youtu.be/U4oB28ksiIo___403www.dzone.com/links/good_unit_test_checklist.html___
-___testing
-http://bit.ly/79Txze___ Tested___
-___testing
-http://t.co/iPcQQON___Tester Tested !: Black Viper Testing Technique___
-___testing
-http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://t.co/IqZmDnl___Create Robust Selenium Tests With PageObjects___
-___testing
-http://t.co/tpmMHg2___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://t.co/s1nIyoO___xkcd: TornadoGuard___
-___testing
-http://t.co/dF4X0bP___Interpreted Languages: PHP, Perl, Python, Ruby (Sheet One) - Hyperpolyglot___
-___programming
-http://t.co/Sr4iCTx___CASTing About - Test Guide - Site Home - MSDN Blogs___
-___testing
-http://t.co/QnYrDtF___http://recurity-labs.com/content/pub/Fabs_VulnerabilityExtrapolation_Thesis2011.pdf___
-___testing
-http://t.co/sgsiYvf___testjutsu &raquo; CAST2011___
-___testing
-http://t.co/5yI80yH___The Perfect Singleton - Java Code Geeks___
-___programming
-http://t.co/BfRYA3A___vsbabu.org:Git with Dropbox___
-___tools
-http://t.co/mnlorrs___403www.dzone.com/links/design_patterns_by_examples_decorator_pattern.html___
-___programming
-http://t.co/yiqIJY0___403www.dzone.com/links/the_art_of_assembly_language_programming_2.html___
-___programming
-http://t.co/Ai0pLCY___302www.nytimes.com/glogin___
-___business
-http://t.co/XbYK6HG___403www.dzone.com/links/java_puzzler_they_just_find_me_.html___
-___programming
-http://t.co/PyZtCIM___403www.dzone.com/links/why_bigo_shouldnt_be_used_by_real_programmers.html___
-___business
-http://t.co/ZwfZonq___403www.dzone.com/links/r/lessons_in_software_reliability_3.html___
-___testing
-http://t.co/qOkGlXe___A Smattering of Selenium #58 &laquo; Official Selenium Blog___
-___testing
-http://t.co/Cj3UK0H___403www.dzone.com/links/a_better_approach_to_handle_java_nullpointerexcep.html___
-___programming
-http://t.co/QiWy6BQ___Why Are Scientific Retractions Increasing? | Wired Science | Wired.com___
-___science
-http://t.co/wbWxVjh___Google Testing Blog: Pretotyping: A Different Type of Testing___
-___testing
+http://ht.ly/5Yyhe___What do you do when a ShowStopper escapes into production? | QA Intelligence - a QABlog____testing
+http://dzone.com/cWQT___403www.dzone.com/links/beginner_programming_mistakes.html____programming
+http://bit.ly/qqibxK___Element 34 - Death to visible content as locators in automated tests____testing
+http://bit.ly/etagilepdf___http://testobsessed.com/wp-content/uploads/2011/08/ETinAgile-agile2011-final.pdf___testing
+http://n.pr/q7O5Sb___This Can't Be Happening : Krulwich Wonders... : NPR ___brain
+http://t.co/AlzHKvi___investigating software: Is your test automation actually agile? A Guardian Content API example.___testing
+http://dzone.com/Pym9___403www.dzone.com/links/the_demise_of_the_low_level_programmer.html___programming
+http://bit.ly/oMVp0N___James Bach’s Blog  &raquo; Blog Archive   &raquo; Quality is Dead #1: The Hypothesis___testing
+http://bit.ly/oNjCCg___Selena Delesie on Exploratory Test Chartering &laquo;  Developsense Blog___testing
+http://bit.ly/98UUdM___Testers:  Get Out of the Quality Assurance Business &laquo;  Developsense Blog___testing
+http://bit.ly/qfVpN4___Qualitative Measures___testing
+http://ow.ly/5ZbOC___404mavericktester.com/coaching-space___testing
+http://zd.net/qaYr4M______Characteristics of a Troubled Project" | ZDNet "___business
+http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://dzone.com/vo38___403www.dzone.com/links/how_to_level_up_as_a_developer.html___programming
+http://bit.ly/nlYRM4___Spoilers Don&#039;t Spoil Anything | Wired Science | Wired.com___science
+http://slidesha.re/qlTZUH___Continuous Integration, the minimum viable product___testing
+http://p.ost.im/p/edKw4D___Continuous Integration, the minimum viable product___testing
+http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://dzone.com/L8Rg___403www.dzone.com/links/what_bruce_lee_can_teach_us_about_design_patterns.html___programming
+http://goo.gl/fb/d2hFG___Tester Tested !: How Pradeep teaches software testing - Part 2___testing
+http://bit.ly/oNavuj___The &quot;Invent with Python&quot; Blog  &mdash; Recursion Explained with the Flood Fill Algorithm (and Zombies and Cats)___programming
+http://dzone.com/9f4I___403www.dzone.com/links/good_unit_test_checklist.html___testing
+http://youtu.be/U4oB28ksiIo___403www.dzone.com/links/good_unit_test_checklist.html___testing
+http://bit.ly/79Txze___ Tested___testing
+http://t.co/iPcQQON___Tester Tested !: Black Viper Testing Technique___testing
+http://bit.ly/oKBnmY___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://t.co/IqZmDnl___Create Robust Selenium Tests With PageObjects___testing
+http://t.co/tpmMHg2___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://t.co/s1nIyoO___xkcd: TornadoGuard___testing
+http://t.co/dF4X0bP___Interpreted Languages: PHP, Perl, Python, Ruby (Sheet One) - Hyperpolyglot___programming
+http://t.co/Sr4iCTx___CASTing About - Test Guide - Site Home - MSDN Blogs___testing
+http://t.co/QnYrDtF___http://recurity-labs.com/content/pub/Fabs_VulnerabilityExtrapolation_Thesis2011.pdf___testing
+http://t.co/sgsiYvf___testjutsu &raquo; CAST2011___testing
+http://t.co/5yI80yH___The Perfect Singleton - Java Code Geeks___programming
+http://t.co/BfRYA3A___vsbabu.org:Git with Dropbox___tools
+http://t.co/mnlorrs___403www.dzone.com/links/design_patterns_by_examples_decorator_pattern.html___programming
+http://t.co/yiqIJY0___403www.dzone.com/links/the_art_of_assembly_language_programming_2.html___programming
+http://t.co/Ai0pLCY___302www.nytimes.com/glogin___business
+http://t.co/XbYK6HG___403www.dzone.com/links/java_puzzler_they_just_find_me_.html___programming
+http://t.co/PyZtCIM___403www.dzone.com/links/why_bigo_shouldnt_be_used_by_real_programmers.html___business
+http://t.co/ZwfZonq___403www.dzone.com/links/r/lessons_in_software_reliability_3.html___testing
+http://t.co/qOkGlXe___A Smattering of Selenium #58 &laquo; Official Selenium Blog___testing
+http://t.co/Cj3UK0H___403www.dzone.com/links/a_better_approach_to_handle_java_nullpointerexcep.html___programming
+http://t.co/QiWy6BQ___Why Are Scientific Retractions Increasing? | Wired Science | Wired.com___science
+http://t.co/wbWxVjh___Google Testing Blog: Pretotyping: A Different Type of Testing___testing
 http://t.co/d7H8U0B___investigating software: Are you sure you've ___completed" testing? A Guardian Content API example."
 ___testing
-http://t.co/gxsKnT5___I hate it..but I must admit I've not tried it - The Social Tester___
-___testing
-http://t.co/g9cwtMJ___403www.dzone.com/links/pass_by_reference_java_is_pass_by_value.html___
-___programming
-http://t.co/Fp2OJAG___403www.dzone.com/links/interview_experience_with_google.html___
-___business
-http://t.co/ciWt5gR___A couple Python-like features in C++11 &#8212; The Endeavour___
-___programming
-http://t.co/uYcHIAH___James Bach’s Blog  &raquo; Blog Archive   &raquo; Technique: Paired Exploratory Survey___
-___testing
-http://t.co/I8WLiCA___How GitHub Works___
-___tools
-http://j.mp/raEUpx___I.B.M. Announces Brainy Computer Chip___
-___brain
-http://t.co/cBZHHiH___403www.dzone.com/links/power_of_ant.html___
-___testing
-http://t.co/yLwTZ2c___Android, iPhone Keylogger using Accelerometer Data___
-___business
-http://t.co/EmxKgTd___403www.dzone.com/links/r/object_calisthenics_2.html___
-___programming
-http://t.co/yV47PYF___403www.dzone.com/links/r/your_test_cases_should_sometimes_fail.html___
-___testing
-http://t.co/QoGN251___Reflections of a &#8220;CAST Away&#8221;  |  The Testing Planet - a software testing publication &amp; magazine___
-___testing
-http://t.co/ljai9fJ___Thwarting the Age Old Man in the Middle - eSecurity Planet___
-___business
-http://t.co/WTpDxbu___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://t.co/b6m11pp___James Bach’s Blog  &raquo; Blog Archive   &raquo; The CAST Testing Competition___
-___testing
-http://t.co/GBPtYcL___403www.dzone.com/links/whats_new_in_firefox_6.html___
-___tools
-http://t.co/Lf18gA2___BugHerd | The world's simplest bug tracker___
-___tools
-http://t.co/ynE6EvM___403www.dzone.com/links/coder_or_clown.html___
-___programming
-http://t.co/x5UjAxK___Andrew Channels Dexter Pinion &raquo; Validating an XML File with LXML___
-___programming
-http://t.co/tpmMHg2___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___
-___testing
-http://t.co/8riQ4Wy___Finding bugs from web.config file in ASP.NET | Santhosh Tuppad&#039;s___
-___testing
-http://t.co/mh47QSQ___Spam bots, password crackers – Building Firewall against them | Santhosh Tuppad&#039;s___
-___programming
-http://j.mp/pdT71N___13-Year-Old Makes Solar Power Breakthrough by Harnessing the Fibonacci Sequence | Inhabitat - Green Design Will Save the World___
-___programming
-http://t.co/jEflLdy___The &quot;Invent with Python&quot; Blog  &mdash; Nobody Cares About a Few Million Nanoseconds___
-___programming
-http://t.co/oWMA4SF___Google Testing Blog: Google Developer Day 2011___
-___testing
-http://t.co/sNoYbYk___Better Testing | Insights, thoughts &amp; ideas___
-___testing
-http://t.co/LBRSN98___Hello Plone | Alex Clark___
-___tools
-http://t.co/1NRlwbi___Testers, don’t take the shit that hits the fan___
-___testing
-http://t.co/jkMtB63___403www.dzone.com/links/are_you_a_good_programmer.html___
-___programming
-http://t.co/0q5ZdhP___403www.dzone.com/links/how_a_coding_obsession_killed_my_startup.html___
-___programming
-http://t.co/cxncOHQ___Really GUI (more on Buttons, images and handlers) &laquo; Python Tutorials for Kids 8+___
-___programming
-http://t.co/ISTKaIh___403www.dzone.com/links/functional_programming_is_hardthats_why_its_good.html___
-___programming
-http://t.co/fWMGxlO___301www.authentic8.com/___
-___tools
-http://t.co/5ggUhfw___Are frameworks making developers dumb? - Java Code Geeks___
-___programming
-http://t.co/n2qaC0G___Writing - The Social Tester___
-___testing
-http://t.co/cGeYsVO___100% Test Coverage  - Uncle Bob's Blog___
-___testing
-http://t.co/dNZISiX___Security Public Relations Excuse Bingo___
-___business
-http://t.co/WFboajw___403www.dzone.com/links/your_code_is_my_hell.html___
-___programming
-http://t.co/etNE6Zx___403www.dzone.com/links/letter_to_a_young_developer.html___
-___programming
-http://t.co/uOqEy66___403www.dzone.com/links/6_awesome_chrome_web_apps_worth_checking_out.html___
-___business
-http://t.co/oIvTOon___Love Is The Opposite Of Underwear | Wired Science | Wired.com___
-___science
-http://t.co/Uy3mXrS___I Reject His Argument: A Buffet of Logical Fallacies &laquo;  Developsense Blog___
-___testing
-http://t.co/afFTgIO___403www.dzone.com/links/the_most_stupid_c_bug_ever.html___
-___programming
-http://t.co/vrnIppe___FSec___
-___testing
-http://t.co/bHR1tSJ___The Big Exploratory Testing Rolling Strategy Dice &laquo;  Testing Thoughts___
-___testing
-http://t.co/bZnCMZ2___ Tooth of the Weasel___
-___testing
-http://t.co/NPaCjtv___Creative Chaos: Tomorrow Through the Past___
-___testing
-http://t.co/aoVzQs5___Good start for a junior tester | simonsaysnomore___
-___testing
-http://t.co/epUmTrn___Thinking Tester: When Testing Fails ...___
-___testing
-http://j.mp/ndcTyD___The Dangerous Psychology of Factory Farming - James McWilliams - Health - The Atlantic___
-___business
-http://t.co/YQfOuVw___403en.wikipedia.org/wiki/Moravec's_paradox___
-___programming
-http://t.co/ZjyyobF___ Hello Test World___
-___testing
-http://t.co/ljEbWC3___code_swarm___
-___programming
-http://t.co/iJu2CNd___The Mentor Manifesto | Hi, I&#039;m David G. Cohen___
-___business
-http://t.co/793EXYW___403www.dzone.com/links/declarative_unit_testing_is_junit_obsolete.html___
-___programming
-http://t.co/suMCCQZ___Side Track &#8211; Global and Local Variables &laquo; Python Tutorials for Kids 8+___
-___programming
-http://t.co/S7C3VUA___The Creativity of Anger | Wired Science | Wired.com___
-___science
-http://t.co/SfSa0hH___The Math Gender Gap: Nurture Trumps Nature | Healthland | TIME.com___
-___business
+http://t.co/gxsKnT5___I hate it..but I must admit I've not tried it - The Social Tester___testing
+http://t.co/g9cwtMJ___403www.dzone.com/links/pass_by_reference_java_is_pass_by_value.html___programming
+http://t.co/Fp2OJAG___403www.dzone.com/links/interview_experience_with_google.html___business
+http://t.co/ciWt5gR___A couple Python-like features in C++11 &#8212; The Endeavour___programming
+http://t.co/uYcHIAH___James Bach’s Blog  &raquo; Blog Archive   &raquo; Technique: Paired Exploratory Survey___testing
+http://t.co/I8WLiCA___How GitHub Works___tools
+http://j.mp/raEUpx___I.B.M. Announces Brainy Computer Chip___brain
+http://t.co/cBZHHiH___403www.dzone.com/links/power_of_ant.html___testing
+http://t.co/yLwTZ2c___Android, iPhone Keylogger using Accelerometer Data___business
+http://t.co/EmxKgTd___403www.dzone.com/links/r/object_calisthenics_2.html___programming
+http://t.co/yV47PYF___403www.dzone.com/links/r/your_test_cases_should_sometimes_fail.html___testing
+http://t.co/QoGN251___Reflections of a &#8220;CAST Away&#8221;  |  The Testing Planet - a software testing publication &amp; magazine___testing
+http://t.co/ljai9fJ___Thwarting the Age Old Man in the Middle - eSecurity Planet___business
+http://t.co/WTpDxbu___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://t.co/b6m11pp___James Bach’s Blog  &raquo; Blog Archive   &raquo; The CAST Testing Competition___testing
+http://t.co/GBPtYcL___403www.dzone.com/links/whats_new_in_firefox_6.html___tools
+http://t.co/Lf18gA2___BugHerd | The world's simplest bug tracker___tools
+http://t.co/ynE6EvM___403www.dzone.com/links/coder_or_clown.html___programming
+http://t.co/x5UjAxK___Andrew Channels Dexter Pinion &raquo; Validating an XML File with LXML___programming
+http://t.co/tpmMHg2___http://adam.goucher.ca/tmp/lightsabers-paper.pdf___testing
+http://t.co/8riQ4Wy___Finding bugs from web.config file in ASP.NET | Santhosh Tuppad&#039;s___testing
+http://t.co/mh47QSQ___Spam bots, password crackers – Building Firewall against them | Santhosh Tuppad&#039;s___programming
+http://j.mp/pdT71N___13-Year-Old Makes Solar Power Breakthrough by Harnessing the Fibonacci Sequence | Inhabitat - Green Design Will Save the World___programming
+http://t.co/jEflLdy___The &quot;Invent with Python&quot; Blog  &mdash; Nobody Cares About a Few Million Nanoseconds___programming
+http://t.co/oWMA4SF___Google Testing Blog: Google Developer Day 2011___testing
+http://t.co/sNoYbYk___Better Testing | Insights, thoughts &amp; ideas___testing
+http://t.co/LBRSN98___Hello Plone | Alex Clark___tools
+http://t.co/1NRlwbi___Testers, don’t take the shit that hits the fan___testing
+http://t.co/jkMtB63___403www.dzone.com/links/are_you_a_good_programmer.html___programming
+http://t.co/0q5ZdhP___403www.dzone.com/links/how_a_coding_obsession_killed_my_startup.html___programming
+http://t.co/cxncOHQ___Really GUI (more on Buttons, images and handlers) &laquo; Python Tutorials for Kids 8+___programming
+http://t.co/ISTKaIh___403www.dzone.com/links/functional_programming_is_hardthats_why_its_good.html___programming
+http://t.co/fWMGxlO___301www.authentic8.com/___tools
+http://t.co/5ggUhfw___Are frameworks making developers dumb? - Java Code Geeks___programming
+http://t.co/n2qaC0G___Writing - The Social Tester___testing
+http://t.co/cGeYsVO___100% Test Coverage  - Uncle Bob's Blog___testing
+http://t.co/dNZISiX___Security Public Relations Excuse Bingo___business
+http://t.co/WFboajw___403www.dzone.com/links/your_code_is_my_hell.html___programming
+http://t.co/etNE6Zx___403www.dzone.com/links/letter_to_a_young_developer.html___programming
+http://t.co/uOqEy66___403www.dzone.com/links/6_awesome_chrome_web_apps_worth_checking_out.html___business
+http://t.co/oIvTOon___Love Is The Opposite Of Underwear | Wired Science | Wired.com___science
+http://t.co/Uy3mXrS___I Reject His Argument: A Buffet of Logical Fallacies &laquo;  Developsense Blog___testing
+http://t.co/afFTgIO___403www.dzone.com/links/the_most_stupid_c_bug_ever.html___programming
+http://t.co/vrnIppe___FSec___testing
+http://t.co/bHR1tSJ___The Big Exploratory Testing Rolling Strategy Dice &laquo;  Testing Thoughts___testing
+http://t.co/bZnCMZ2___ Tooth of the Weasel___testing
+http://t.co/NPaCjtv___Creative Chaos: Tomorrow Through the Past___testing
+http://t.co/aoVzQs5___Good start for a junior tester | simonsaysnomore___testing
+http://t.co/epUmTrn___Thinking Tester: When Testing Fails ...___testing
+http://j.mp/ndcTyD___The Dangerous Psychology of Factory Farming - James McWilliams - Health - The Atlantic___business
+http://t.co/YQfOuVw___403en.wikipedia.org/wiki/Moravec's_paradox___programming
+http://t.co/ZjyyobF___ Hello Test World___testing
+http://t.co/ljEbWC3___code_swarm___programming
+http://t.co/iJu2CNd___The Mentor Manifesto | Hi, I&#039;m David G. Cohen___business
+http://t.co/793EXYW___403www.dzone.com/links/declarative_unit_testing_is_junit_obsolete.html___programming
+http://t.co/suMCCQZ___Side Track &#8211; Global and Local Variables &laquo; Python Tutorials for Kids 8+___programming
+http://t.co/S7C3VUA___The Creativity of Anger | Wired Science | Wired.com___science
+http://t.co/SfSa0hH___The Math Gender Gap: Nurture Trumps Nature | Healthland | TIME.com___business
