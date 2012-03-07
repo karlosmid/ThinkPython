@@ -46,13 +46,15 @@ def getDiigoLinks():
     import urllib2
     import base64
     username = 'karlosmid'
-    password = 'dirl63ruG*'
-    base64string = base64.encodestring('%s:%s' % (username, password))[:-1]
+    fileWithPassword = open('diigo.txt','r')
+    password = fileWithPassword.readline()
+    fileWithPassword.close()
+    base64string = base64.encodestring('%s:%s' % (username, password[:-1]))[:-1]
     request =\
     urllib2.Request('https://secure.diigo.com/api/v2/bookmarks?key=eb850240326fddfd&user=karlosmid&count=10')
     request.add_header("Authorization", "Basic %s" % base64string)
     stream = urllib2.urlopen(request)
-    print stream.read(1000)
+    print stream.read()
 def parseFileWithLinks(fileWithLinks):
     LINK_NAME = 1
     LINK = 0
