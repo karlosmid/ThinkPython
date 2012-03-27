@@ -45,8 +45,7 @@ http://t.co/qOkGlXe___A Smattering of Selenium #58 &laquo; Official Selenium Blo
 http://t.co/Cj3UK0H___403www.dzone.com/links/a_better_approach_to_handle_java_nullpointerexcep.html___programming
 http://t.co/QiWy6BQ___Why Are Scientific Retractions Increasing? | Wired Science | Wired.com___science
 http://t.co/wbWxVjh___Google Testing Blog: Pretotyping: A Different Type of Testing___testing
-http://t.co/d7H8U0B___investigating software: Are you sure you've ___completed" testing? A Guardian Content API example."
-___testing
+http://t.co/d7H8U0B___investigating software: Are you sure you've completed" testing? A Guardian Content API example."___testing
 http://t.co/gxsKnT5___I hate it..but I must admit I've not tried it - The Social Tester___testing
 http://t.co/g9cwtMJ___403www.dzone.com/links/pass_by_reference_java_is_pass_by_value.html___programming
 http://t.co/Fp2OJAG___403www.dzone.com/links/interview_experience_with_google.html___business

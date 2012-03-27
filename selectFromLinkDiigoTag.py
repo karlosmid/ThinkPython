@@ -1,15 +1,15 @@
-import getopt, sys
+import getopt, sys, time, json
 
 def usage():
     print 'usage: selectFromLinkDiigoTag.py -i fileWithLinks -r numberOfDiigoLinks -s diigoFileWithTags'
 def main():
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "irs:")
+        opts, args = getopt.getopt(sys.argv[1:], "i:r:s:")
     except getopt.GetoptError, err:
         # print help information and exit:
         print str(err) # will print something like "option -a not recognized"
         sys.exit(2)
-    inputFileName = None
+    print opts,args 
     for o, a in opts:
         if o == "-i":
             inputFileName = a
@@ -28,21 +28,12 @@ def main():
             getDiigoLinks(a)
             sys.exit(2)
         elif o == "-s":
-            sendToDiigo(a)
+            fileWithData = open(a,'r')
+            sendToDiigo(fileWithData)
+            fileWithData.close()
             sys.exit(2)
         else:
             assert False, "unhandled option"
-    try: 
-        fileWithLinks = open(inputFileName,'r')
-    except Exception, e:
-        print str(e)
-        usage()
-        sys.exit(2)
-    listWithDiigoTags = parseFileWithLinks(fileWithLinks)
-    fileWithLinks.close()
-    file = open(inputFileName[:-4]+'WithTags.txt','w')
-    file.write('\n'.join(listWithDiigoTags))
-    file.close()
 def sendToDiigo(diigoFileWithLinksAndTags):
     import urllib
     import urllib2
@@ -50,16 +41,27 @@ def sendToDiigo(diigoFileWithLinksAndTags):
     diigoApiKey = 'eb850240326fddfd'
     username = 'karlosmid'
     values = {'key':diigoApiKey,
-              'url':'http://zagorskisoftwaretester.blogspot.com/',
-              'title':'Moj blog',
-              'tags':'testing',
+              'url':'',
+              'title':'',
+              'tags':'',
               'shared':'yes'}
-    data = urllib.urlencode(values)
-    request = urllib2.Request(url,data)
-    authorisedRequest = authoriseRequest(request,username)
-    response = urllib2.urlopen(authorisedRequest)
-    response_page = response.read()
-    print response_page
+    linkCounter = 0
+    for link in diigoFileWithLinksAndTags:
+        linkAsList = link.split('___')
+        values['url'] = linkAsList[0]
+        values['title'] = linkAsList[1]
+        values['tags'] = linkAsList[2]
+        data = urllib.urlencode(values)
+        request = urllib2.Request(url,data)
+        authorisedRequest = authoriseRequest(request,username)
+        response = urllib2.urlopen(authorisedRequest)
+        responseAsJSON = json.load(response)
+        if responseAsJSON['code'] != 1:
+            print responseAsJSON, values
+        else:
+            linkCounter = linkCounter + 1
+            print linkCounter
+        time.sleep(2)
 def getDiigoLinks(numberOfDiigoLinks):
     import urllib2
     diigoApiKey = 'eb850240326fddfd'
@@ -69,9 +71,9 @@ def getDiigoLinks(numberOfDiigoLinks):
     authorisedRequest = authoriseRequest(request,username) 
     try: 
         stream = urllib2.urlopen(authorisedRequest)
+        print stream.read()
     except urllib2.URLError,e:
         print e
-    print stream.read()
 def authoriseRequest(request,username):
     import base64
     fileWithPassword = open('diigo.txt','r')
