@@ -1,0 +1,20 @@
+﻿It is Christmas time. You are learning Python. Draw following Christmas tree:
+
+
+           I
+          III
+         IIIII
+        IIIIIII
+       IIIIIIIII
+      IIIIIIIIIII
+     IIIIIIIIIIIII
+    IIIIIIIIIIIIIII
+   IIIIIIIIIIIIIIIII
+  IIIIIIIIIIIIIIIIIII
+ IIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIII
+           I
+
+
+Hint: use Python loops and string formatting. Tree height must be parameter.
+Enjoy.
